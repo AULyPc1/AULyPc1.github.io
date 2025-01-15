@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: false,
-    src: 'assets/images/liliya.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/amiya_birthday.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
       enable: true,         // Display the credit text of the banner image
-      text: '葛城リーリヤ-wake up',              // Credit text to be displayed
-      url: 'https://www.youtube.com/watch?v=X56QfFhKXEU'                // (Optional) URL link to the original artwork or artist's page
+      text: '歳月の贈り物-Amiya',              // Credit text to be displayed
+      url: 'https://www.youtube.com/watch?v=8pWN9c9g63E'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon

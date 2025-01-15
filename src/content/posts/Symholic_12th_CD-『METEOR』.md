@@ -1,11 +1,12 @@
 ---
 title: Symholic 12th CD 『METEOR』
-published: 2024-03-22
+published: 2024-03-29
 description: "『セカイ』ってこんなに  『キレイ』だったんだね"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/meteor/2.webp"
-tags: ["同人音乐", "音游","日常"]
+tags: [同人音乐, Symholic]
 category: 同人音乐
 draft: false
+series: Symholic
 ---
 
 <p style="text-align:center;color:#7058a3;font-size:1.0em;font-weight: bold;">
@@ -14,6 +15,11 @@ draft: false
     盲目の少女ヒリカは、先生と二人で暮らしていた。
 <br>    
     二人は「その瞳が治ったら一緒に星を観よう」と約束を交わした——。
+<br>
+    心が締め付けられるほど残酷で美しい
+<br>    <br>
+    シンフォニックな物語音楽《黒玲装》編　第一章
+<br>    
 </p>
 <br>
 <div class="video-container">

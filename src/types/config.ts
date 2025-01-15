@@ -78,6 +78,7 @@ export type BlogPostData = {
   draft?: boolean
   image?: string
   category?: string
+  series?: string /*添加系列栏*/
   prevTitle?: string
   prevSlug?: string
   nextTitle?: string

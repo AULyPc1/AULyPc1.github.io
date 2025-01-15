@@ -6,6 +6,7 @@ image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/pictur
 tags: [同人音乐, M3-54th]
 category: 同人音乐
 draft: false
+series: 同人音乐相关
 ---
 :::note
 2024秋M3于10月27日下午结束，浅浅记录下本次的收获  
@@ -19,10 +20,9 @@ draft: false
 > 但是计划内其余的都买到了  
 > 下面依次详细介绍下  
 
-> 感谢萤烛少爷帮忙拍的照片  
 > 这个b出差什么时候是个头😥  
 
-首先是本次委托萤烛朋友跑场贩的合照  
+首先是本次委托群友朋友跑场贩的合照  
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/cd_set_1.webp" border=0 width=400 height="" ></td>
 <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/cd_set_2.webp" border=0 width=400 height="" ></td>
@@ -111,21 +111,11 @@ draft: false
 > 本次新发现的可爱姐姐  
 > 以及yuiko  
 
-## う-40ab 鈴湯 / お-02a 夢乃ゆき
-<table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/lingtang.webp" border=0 width=360 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/mengnai.webp" border=0 width=400 height="" ></td>
-</tr></table>
 
-> 这几张是拜托另外一位群友跑的场贩  
-> 但签名有点小插曲😅  
-> 可能我备注没写清楚吧...  
-
-## え-06b 木下珠子 / シ-35ab Symholic/こまつりな
+## シ-35ab Symholic/こまつりな
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/zhuzi.webp" border=0 width=310 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/STIGMA.webp" border=0 width=300 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/s2eeeet♡obsession!!.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/STIGMA.webp" border=0 width=400 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/s2eeeet♡obsession!!.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 > Symholic本次新砖『STIGMA』  

@@ -4,9 +4,10 @@ published: 2024-09-04
 description: '替换Fuwari图标ICON'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/513323.webp'
 tags: [Fuwari, 搭建]
-category: '网站'
-draft: false 
+category: 网站
+draft: false
 language: ''
+series: 博客改造
 ---
 :::note[封面来源]
 [bluearchive.jp](https://bluearchive.jp/fankit)
@@ -26,8 +27,8 @@ language: ''
 > <div class="flex items-center">
 >     <div class="meta-icon"
 >     >
->-         <Icon name="material-symbols:book-2-outline-rounded" class="text-xl"></Icon>
->+         <Icon name="material-symbols:menu-rounded" class="text-xl"></Icon>
+>          <Icon name="material-symbols:book-2-outline-rounded" class="text-xl"></Icon> // [!code --]
+>          <Icon name="material-symbols:menu-rounded" class="text-xl"></Icon> // [!code ++]
 >     </div>
 > ```
 > :::tip[更改其他图标]

@@ -6,6 +6,7 @@ image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/pictur
 tags: [VRChat]
 category: 游戏
 draft: false
+series: VRChat
 ---
 
 > 不知不觉已经12月中旬了  

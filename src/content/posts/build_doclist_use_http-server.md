@@ -4,9 +4,10 @@ published: 2024-10-18
 description: '在服务器使用http-server创建index of文件列表页'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/build_doclist_use_http-server/cover_public.png'
 tags: [http-server, 静态文件服务器]
-category: '网站'
-draft: false 
+category: 网站
+draft: false
 language: ''
+series: 博客改造
 ---
 > 有时下载某个安装包时会跳转到一个很简介的页面  
 > 比如下图这个python各个版本  

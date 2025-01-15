@@ -3,10 +3,11 @@ title: M3-54th(2024年秋)计划
 published: 2024-10-16
 description: '2024秋M3来临之际，简单写点这次感兴趣的专'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn-plan/imgIndex2024a.webp'
-tags: ["同人音乐", "M3-54th"]
-category: '同人音乐'
-draft: false 
+tags: [同人音乐, M3-54th]
+category: 同人音乐
+draft: false
 language: ''
+series: 同人音乐相关
 ---
 :::note
 2024秋M3来临之际，简单写点这次感兴趣的社团以及专辑  

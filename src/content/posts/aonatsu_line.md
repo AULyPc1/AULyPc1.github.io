@@ -3,10 +3,11 @@ title: 青夏轨迹
 published: 2024-07-18
 description: '如此难忘的夏天，今生仅此一次。如此难忘的夏天，今生仅此一次。'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231207171811_1.webp'
-tags: [galgame, 游戏]
-category: '游戏'
+tags: [galgame]
+category: 游戏
 draft: false
 language: ''
+series: 游戏相关
 ---
 <p style="text-align:center;color:#007bbb;font-size:1.0em;font-weight: bold;">
    如此难忘的夏天，今生仅此一次。如此难忘的夏天，今生仅此一次。

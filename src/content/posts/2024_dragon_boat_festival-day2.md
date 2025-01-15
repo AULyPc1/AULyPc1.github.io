@@ -3,9 +3,10 @@ title: 2024端午团建Day2
 published: 2024-06-18
 description: "2024端午团建Day2"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_183144.webp"
-tags: ["日常", "团建"]
+tags: [团建]
 category: 日常
 draft: false
+series: 2024年端午节团建
 ---
 
 :::CAUTION[CAUTION]
@@ -371,7 +372,7 @@ draft: false
 > 也想起了在轻小说中看到关于摩天轮的场景
 <center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/kiss.webp" border=0 width=400 height=""></td></center>
 
-```
+```text
   从遥远的下方传来音乐的声音。
   风声环绕著缆车，我看向窗外。
   把内心话告诉重要的朋友令我感到欢喜。即使知道真正的我，她对我的态度也肯定不会改变。

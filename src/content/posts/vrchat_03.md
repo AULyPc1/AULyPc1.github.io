@@ -6,6 +6,7 @@ image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/pictur
 tags: [VRChat]
 category: 游戏
 draft: false
+series: VRChat
 ---
 感觉前前后后有快三周没打开VR了  
 今年元旦正好是周三，请了周四周五的假，带上周末，等于放了5天假期  

@@ -3,9 +3,10 @@ title: るる
 published: 2024-03-29
 description: ""
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru/1.webp"
-tags: ["同人音乐", "るる"]
+tags: [同人音乐, るる]
 category: 同人音乐
 draft: false
+series: 同人音乐相关
 ---
 
 > 第一次和るる（ruru）相遇是在2023年秋M3的前几周  

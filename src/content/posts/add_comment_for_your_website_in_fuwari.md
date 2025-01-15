@@ -4,9 +4,10 @@ published: 2024-09-06
 description: '利用 GitHub Discussions 实现的评论系统，让访客借助 GitHub 在你的网站上留下评论'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/88886922_p0.webp'
 tags: [Fuwari, 搭建, 评论]
-category: '网站'
-draft: false 
+category: 网站
+draft: false
 language: ''
+series: 博客改造
 ---
 :::note[封面来源]
 [Anmi](https://www.pixiv.net/artworks/88886922)
@@ -88,57 +89,58 @@ language: ''
 > 请看博主前几天发的[文章](https://blog.aulypc0x0.online/posts/add_friendspage_in_fuwari/)  
 > 如果已经创建好，请在 ```src\pages\friends.astro``` 文件中修改  
 > 直接插入最后一行上方即可  
-> ```astro
->             <Markdown class="mt-2">
->                 <Content />
->             </Markdown>
->         </div>
->     </div>
-> 
-> <!-- giscus评论 -->
-> <script src="https://giscus.app/client.js"
->         data-repo="AULyPc/aulypc.github.io"
->         data-repo-id="xxxxxxxxx"
->         data-category="Announcements"
->         data-category-id="xxxxxxxxxxxx"
->         data-mapping="pathname"
->         data-strict="0"
->         data-reactions-enabled="1"
->         data-emit-metadata="0"
->         data-input-position="top"
->         data-theme="preferred_color_scheme"
->         data-lang="zh-CN"
->         crossorigin="anonymous"
->         async>
-> </script>
-> 
-> </MainGridLayout>
-> ```
+
+```js
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+        </div>
+    </div>
+
+<!-- giscus评论 -->
+<script src="https://giscus.app/client.js"  // [!code ++]
+        data-repo="AULyPc/aulypc.github.io"  // [!code ++]
+        data-repo-id="xxxxxxxxx"  // [!code ++]
+        data-category="Announcements"  // [!code ++]
+        data-category-id="xxxxxxxxxxxx"  // [!code ++]
+        data-mapping="pathname"  // [!code ++]
+        data-strict="0"  // [!code ++]
+        data-reactions-enabled="1"  // [!code ++]
+        data-emit-metadata="0"  // [!code ++]
+        data-input-position="top"  // [!code ++]
+        data-theme="preferred_color_scheme"  // [!code ++]
+        data-lang="zh-CN"  // [!code ++]
+        crossorigin="anonymous"  // [!code ++]
+        async>  // [!code ++]
+</script>  // [!code ++]
+
+</MainGridLayout>
+```
 
 > ### 文章页面
 > 找到 ```src\pages\posts\[...slug].astro``` 文件  
 > 在 ```</MainGridLayout>``` 行上方添加即可  
-> ```astro
+> ```js
 >                 <Icon name="material-symbols:chevron-right-rounded" class="text-[2rem] text-[var(--primary)]" />
 >             </div>}
 >         </a>
 >     </div>
 > 
-> <script src="https://giscus.app/client.js"
->     data-repo="AULyPc/aulypc.github.io"
->     data-repo-id="xxxxxxxxxxx"
->     data-category="Announcements"
->     data-category-id="xxxxxxxxxxxxx"
->     data-mapping="pathname"
->     data-strict="0"
->     data-reactions-enabled="1"
->     data-emit-metadata="0"
->     data-input-position="top"
->     data-theme="preferred_color_scheme"
->     data-lang="zh-CN"
->     crossorigin="anonymous"
->     async>
-> </script>
+> <script src="https://giscus.app/client.js"  // [!code ++]
+>     data-repo="AULyPc/aulypc.github.io"  // [!code ++]
+>     data-repo-id="xxxxxxxxxxx"  // [!code ++]
+>     data-category="Announcements"  // [!code ++]
+>     data-category-id="xxxxxxxxxxxxx"  // [!code ++]
+>     data-mapping="pathname"  // [!code ++]
+>     data-strict="0"  // [!code ++]
+>     data-reactions-enabled="1"  // [!code ++]
+>     data-emit-metadata="0"  // [!code ++]
+>     data-input-position="top"  // [!code ++]
+>     data-theme="preferred_color_scheme"  // [!code ++]
+>     data-lang="zh-CN"  // [!code ++]
+>     crossorigin="anonymous"  // [!code ++]
+>     async>  // [!code ++]
+> </script>  // [!code ++]
 > 
 > </MainGridLayout>
 > 

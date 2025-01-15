@@ -1,11 +1,12 @@
 ---
-title: VRChat近况
+title: VRChat近况_Ver1.1
 published: 2024-10-21
 description: '入坑VRC后的一些记录'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_01/shinano_ver1.0-2.webp'
 tags: [VRChat]
 category: 游戏
-draft: false 
+draft: false
+series: VRChat
 ---
 :::note
 简单的记录下自从国庆期间入坑vrchat以来的情况  

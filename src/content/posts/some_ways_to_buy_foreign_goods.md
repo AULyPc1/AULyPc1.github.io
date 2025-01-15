@@ -1,12 +1,13 @@
 ---
 title: 如何购买实体专辑及周边谷子
-published: 2024-12-06
+published: 2024-12-09
 description: '简单记录下自己最近几年海购的经验'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/cd_1.webp'
 tags: [日常, 海购, 教程]
 category: '日常'
-draft: false 
+draft: false
 language: ''
+series: 日常
 ---
 
 :::note
@@ -162,8 +163,16 @@ RNG仓库可以免费存储90天商品
 RNG目前不能添加商品的种类，如果包裹内有多种商品的话很尴尬  
 商品种类默认即可  
 商品数量如实填写  
-商品总价```不要超过1k RMB```，不然极大概率会被退运  
+商品总价 ~~不要超过1k RMB~~，不然极大概率会被退运  
+```更新，现在涨到2K RMB了```  
 :::
+
+```text
+更新：税委会公告2024年第11号 国务院关税税则委员会关于公布《进境物品关税、增值税、消费税征收办法》的公告  
+第六条 下列进境物品，经海关审核确属个人合理自用的，按照简易征收办法合并征收关税、增值税、消费税：
+(一)行李物品;
+(二)总值两千元人民币以内的寄递物品，或者总值超过两千元人民币的不可分割单件寄递物品。
+```
 
 <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/1000.webp" border=0 width=700 height=""></td>
 

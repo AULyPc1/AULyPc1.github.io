@@ -3,9 +3,10 @@ title: 如何下载并注册steam
 published: 2024-08-16
 description: "简单介绍下如何正确的下载以及安装steam"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_install_steam/bilipic_202408261420128586.png"
-tags: ["教程", "steam"]
+tags: [教程, steam]
 category: 日常
 draft: true
+series: 日常
 ---
 :::warning[注意]
 此篇文章算是整活吧  

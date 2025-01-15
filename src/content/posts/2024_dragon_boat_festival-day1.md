@@ -3,9 +3,10 @@ title: 2024端午团建Day1
 published: 2024-06-17
 description: "2024端午团建Day1"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152017.webp"
-tags: ["日常", "团建"]
+tags: [团建]
 category: 日常
 draft: false
+series: 2024年端午节团建
 ---
 
 :::note[端午来了]

@@ -3,9 +3,10 @@ title: るる活动年鉴
 published: 2024-08-15
 description: "对同人歌手るる，粉丝向活动整理记录"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/1724653481041.png"
-tags: ["同人音乐", "るる"]
+tags: [同人音乐, るる]
 category: 同人音乐
 draft: false
+series: 同人音乐相关
 ---
 
 :::note[注意]

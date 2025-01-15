@@ -1,10 +1,11 @@
 ---
 title: Hello world,Hello Fuwari
-published: 2022-07-01
+published: 2024-03-01
 description: '主题自带文档汇总整理'
-tags: ["Fuwari", "测试", "网站"]
-category: 测试
-draft: true
+tags: [Fuwari]
+category: 网站
+draft: false
+series: 博客改造
 ---
 
 # This Article is a Draft

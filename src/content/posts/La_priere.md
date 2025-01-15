@@ -3,9 +3,10 @@ title: La prière
 published: 2024-03-22
 description: "介绍下喜欢的同人音乐组合之一，La prière"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/La_priere/body_110246.jpeg"
-tags: ["同人音乐", "La prière"]
+tags: [同人音乐, La_prière]
 category: 同人音乐
 draft: false
+series: 同人音乐相关
 ---
 
 > ### 碎碎念

@@ -3,9 +3,10 @@ title: DizzyMart2024
 published: 2024-05-14
 description: "国内第一届同人音乐展"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/dizzymart2024.webp"
-tags: ["同人音乐", "DizzyMart"]
+tags: [同人音乐, DizzyMart]
 category: 日常
 draft: false
+series: 同人音乐相关
 ---
 :::note
 5月3-4日「[DizzyMart2024电则市场](https://www.dizzylab.net/)」在中国上海举行  

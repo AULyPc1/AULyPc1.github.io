@@ -3,9 +3,10 @@ title: M3-53th(2024年春)战利品
 published: 2024-05-02
 description: "2024春M3买的CD到了!"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_2.webp"
-tags: ["同人音乐", "M3-53th"]
+tags: [同人音乐, M3-53th]
 category: 同人音乐
 draft: false
+series: 同人音乐相关
 ---
 :::note
 2024春M3于4月28日下午结束，浅浅记录下本次的收获  
@@ -60,8 +61,7 @@ draft: false
 > 还有群友帮忙买的这次糖的新专以及arforest的una  
 > 说起una这张专，当初也是被这张专高质量的曲子所吸引  
 > 但是市场炒价太高，就放弃入手了  
-> M3前，当时在和莹烛、马鹿一起在南京团建吃火锅时  
-> 无意间看了下Q群，发现有人发了张arforest直播的截图  
+> M3前，无意间看了下Q群，发现有人发了张arforest直播的截图  
 > 截图内容是这次M3的新谱以及una的再贩  
 > 笑死  
 > 闲鱼好些直播前有位3k rmb购入una的  

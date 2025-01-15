@@ -1,11 +1,12 @@
 ---
 title: Symholic 13th CD 『STIGMA』
-published: 2024-10-21
+published: 2024-10-30
 description: "こんなことなら　何も思い出さなければよかった"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/13th_STIGMA/STIGMA_cover.webp"
 tags: [同人音乐, Symholic]
 category: 同人音乐
 draft: false
+series: Symholic
 ---
 
 <p style="text-align:center;color:#383c3c;font-size:1.2em;font-weight: bold;">
@@ -103,7 +104,8 @@ draft: false
 > 先是下毒毒死了父亲，欺骗医生说是因为病情恶化  
 > 然后当姐姐卡特莉娅独自在山丘上时  
 > 将姐姐推下山丘，留下一句<p style="color:#e95464;font-size:1.3em;font-weight: bold;">“さようなら，カトレア”</p>  
-> （这里个人已经能脑补出妹妹卡米尔双眼无光说出这句话的情景了）  
+> <p style="color:#e95464;font-size:1.3em;font-weight: bold;">“再见了，卡特莉娅”</p>
+> （这里个人已经能脑补出妹妹卡米尔双眼无光、俯视着坠落的卡特莉娅，说出这句话的情景了）  
 
 > 结果姐姐没有当时丧命，而且活了下来，但是失去了记忆  
 > 妹妹卡米尔无法原谅就这样忘得一干二净的姐姐  

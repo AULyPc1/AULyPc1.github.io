@@ -87,3 +87,17 @@ export async function getCategoryList(): Promise<Category[]> {
   }
   return ret
 }
+
+/* 在content-utils.ts里添加getPostSeries方法*/
+export async function getPostSeries(
+  seriesName: string,
+): Promise<{ body: string; data: BlogPostData; slug: string }[]> {
+  const posts = (await getCollection('posts', ({ data }) => {
+    return (
+      (import.meta.env.PROD ? data.draft !== true : true) &&
+      data.series === seriesName
+    )
+  })) as unknown as { body: string; data: BlogPostData; slug: string }[]
+
+  return posts
+}

@@ -4,9 +4,10 @@ published: 2024-05-30
 description: '记录下自己很喜欢的V'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/shiroha_nemu.webp'
 tags: [日常, 表情包, 白羽ねむ]
-category: 'vtuber'
+category: vtuber
 draft: false
 language: ''
+series: 日常
 ---
 
  <p style="text-align:center;color:#5a79ba;font-size:1.2em;font-weight: bold;">“今日も生きててえらい！！☁” “今天也好好活着真是了不起！！☁” </p>

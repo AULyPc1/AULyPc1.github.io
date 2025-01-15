@@ -36,4 +36,5 @@ export const zh_CN: Translation = {
   [Key.publishedAt]: '发布于🌏',
   [Key.license]: '许可协议🧬',
   [Key.friends]: '友链✨',
+  [Key.series]: '系列📂' /*添加系列栏*/,
 }

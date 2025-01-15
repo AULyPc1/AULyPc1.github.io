@@ -3,9 +3,10 @@ title: FCM推送
 published: 2024-06-03
 description: "对米系手机某些软件消息推送不及时的解决方法"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/6.jpg"
-tags: ["日常", "fcm"]
+tags: [fcm]
 category: 日常
 draft: false
+series: FCM推送
 ---
 
 :::note

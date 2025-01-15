@@ -3,9 +3,10 @@ title: FCM推送_后续
 published: 2024-07-20
 description: "结合上次的摸索，这次算是终于完结了"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/20240720202816.jpg"
-tags: ["日常", "fcm"]
+tags: [fcm]
 category: 日常
 draft: false
+series: FCM推送
 ---
 
 > 又来折腾自己来了  

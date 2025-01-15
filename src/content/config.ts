@@ -10,6 +10,7 @@ const postsCollection = defineCollection({
     tags: z.array(z.string()).optional().default([]),
     category: z.string().optional().default(''),
     language: z.string().optional().default(''),
+    series: z.string().optional() /*添加系列栏*/,
 
     /* For internal use */
     prevTitle: z.string().default(''),

@@ -1,12 +1,13 @@
 ---
 title: 简单的从零开始搭建Fuwari
-published: 2024-09-04
+published: 2024-09-03
 description: '简单的从零开始搭建Fuwari'
 image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/20230509_024446.webp'
 tags: [Fuwari, 搭建]
-category: '网站'
-draft: false 
+category: 网站
+draft: false
 language: ''
+series: 博客改造
 ---
 :::note[封面来源]
 [瀬來ちゃん](https://x.com/sera_01282739/status/1632719614085054465)
@@ -107,17 +108,29 @@ language: ''
 > 执行 ```pnpm new-post <filename>``` 创建新文章页面后  
 > 就可以在 ```src/content/posts/``` 目录中编辑你的第一篇文章了  
 > 文章需包含以下内容  
-> ```ts
+> ```md
 > ---
-> title: My First Blog Post  // 标题
-> published: 2023-09-09  // 时间
-> description: This is the first post of my new Astro blog.  // 描述，可有可无
-> image: /images/cover.jpg  // 文章主页的封面，可有可无
-> tags: [Foo, Bar]  // 文章标签
-> category: Front-end  // 文章分类
-> draft: false  // 默认false
-> language: ''  // 可有可无
+> title: My First Blog Post  <!-- 你的文章标题 -->
+> published: 2023-09-09  <!-- 文章发布时间 -->
+> description: This is the first post of my new Astro blog.  <!-- 简单描述你的文章，可有可无 -->
+> image: /images/cover.jpg  <!-- 文章主页的封面，可有可无 -->
+> tags: [Foo, Bar]  <!-- 文章标签 -->
+> category: Front-end  <!-- 文章分类 -->
+> draft: false  <!-- 文文章是否为草稿，默认false；设置为true后部署后不可见，但本地开发预览时仍可见 -->
+> language: ''  <!-- 可有可无，按需设置 -->
 > ---
 > ```
 > 
+### 全局页面宽度
+在文件```src\layouts\Layout.astro```内更改  
+(新版主题好像没这块的代码)  
+```
+<style is:global>
+	:root {
+		--hue: var(--configHue);
+		--page-width: 75rem; // [!code --]
+		--page-width: 81rem; /*👈这里改全局页面宽度 */ // [!code ++] 
+	}
+</style>
+```
 >  ```以上，have yourself``` 

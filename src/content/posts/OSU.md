@@ -3,9 +3,10 @@ title: welcom to osu !
 published: 2024-03-22
 description: "Oh! Shit! Uninstall!"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/OSU/3.webp"
-tags: ["osu", "音游","日常"]
+tags: [osu, 音游, 日常]
 category: 游戏
 draft: false
+series: 游戏相关
 ---
 
 <p style="text-align:center;color:#e95464;font-size:1.2em;font-weight: bold;"> 借以此文章，纪念我3年游玩OSU的时光 </p>
