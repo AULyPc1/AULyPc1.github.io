@@ -94,7 +94,7 @@ importers:
         specifier: ^2.13.0
         version: 2.13.0
       sharp:
-        specifier: ^0.33.5
+        specifier: ^0.33.0
         version: 0.33.5
       svelte:
         specifier: ^4.2.19
@@ -2518,6 +2518,7 @@ packages:
   follow-redirects@1.15.8:
     resolution: {integrity: sha512-xgrmBhBToVKay1q2Tao5LI26B83UhrB/vM1avwVSDzt8rx3rO6AizBAaF46EgksTVr+rFTQaqZZ9MVBfUe4nig==}
     engines: {node: '>=4.0'}
+    deprecated: Browser detection issues fixed in v1.15.9
     peerDependencies:
       debug: '*'
     peerDependenciesMeta:
