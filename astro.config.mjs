@@ -19,6 +19,7 @@ import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 
+import vercel from '@astrojs/vercel/serverless' /* vercel */
 // 👇添加transformer//
 import {
   transformerMetaHighlight,
@@ -46,6 +47,7 @@ export default defineConfig({
   site: 'https://aulypc1.github.io',
   base: '/',
   trailingSlash: 'always',
+
   integrations: [
     tailwind(),
     swup({
@@ -80,6 +82,7 @@ export default defineConfig({
       },
     }),
   ],
+
   markdown: {
     // 👇添加shikiconfig//
     shikiConfig: {
@@ -145,6 +148,7 @@ export default defineConfig({
       ],
     ],
   },
+
   vite: {
     build: {
       rollupOptions: {
@@ -170,4 +174,7 @@ export default defineConfig({
       },
     },
   },
+
+  output: 'server',
+  adapter: vercel(),
 })
