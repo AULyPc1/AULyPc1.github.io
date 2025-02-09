@@ -19,7 +19,6 @@
     "@astrojs/sitemap": "^3.2.1",
     "@astrojs/svelte": "^7.0.4",
     "@astrojs/tailwind": "^5.1.5",
-    "@astrojs/vercel": "^8.0.6",
     "@fontsource-variable/jetbrains-mono": "^5.0.22",
     "@fontsource/roboto": "^5.0.14",
     "@swup/astro": "^1.4.1",

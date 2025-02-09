@@ -1,7 +1,6 @@
 import sitemap from '@astrojs/sitemap'
 import svelte from '@astrojs/svelte'
 import tailwind from '@astrojs/tailwind'
-import vercel from '@astrojs/vercel' /* vercel*/
 import swup from '@swup/astro'
 import Compress from 'astro-compress'
 import icon from 'astro-icon'
