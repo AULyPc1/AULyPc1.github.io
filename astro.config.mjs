@@ -1,6 +1,7 @@
 import sitemap from '@astrojs/sitemap'
 import svelte from '@astrojs/svelte'
 import tailwind from '@astrojs/tailwind'
+import vercel from '@astrojs/vercel' /* vercel*/
 import swup from '@swup/astro'
 import Compress from 'astro-compress'
 import icon from 'astro-icon'
@@ -19,7 +20,6 @@ import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 
-import vercel from '@astrojs/vercel/serverless' /* vercel */
 // 👇添加transformer//
 import {
   transformerMetaHighlight,
