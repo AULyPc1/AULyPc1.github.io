@@ -19,7 +19,7 @@ import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 
-// 👇添加transformer//
+// 👇添加transformer(diff、highlight)//
 import {
   transformerMetaHighlight,
   transformerMetaWordHighlight,
@@ -28,7 +28,7 @@ import {
   transformerNotationHighlight,
   transformerNotationWordHighlight,
 } from '@shikijs/transformers'
-// 👆添加transform//
+// 👆添加transform(diff、highlight)//
 
 const oklchToHex = str => {
   const DEFAULT_HUE = 250
@@ -41,12 +41,10 @@ const oklchToHex = str => {
 }
 
 // https://astro.build/config
-
 export default defineConfig({
-  site: 'https://aulypc1.github.io',
+  site: 'https://blog.aulypc0x0.online',
   base: '/',
   trailingSlash: 'always',
-
   integrations: [
     tailwind(),
     swup({
@@ -81,9 +79,8 @@ export default defineConfig({
       },
     }),
   ],
-
   markdown: {
-    // 👇添加shikiconfig//
+    // 👇添加shikiconfig(diff、highlight)//
     shikiConfig: {
       transformers: [
         // ...
@@ -95,7 +92,7 @@ export default defineConfig({
         transformerMetaWordHighlight(),
       ],
     },
-    // 👆添加shikiconfig//
+    // 👆添加shikiconfig(diff、highlight)//
 
     remarkPlugins: [
       // ...
@@ -147,7 +144,6 @@ export default defineConfig({
       ],
     ],
   },
-
   vite: {
     build: {
       rollupOptions: {
@@ -173,7 +169,4 @@ export default defineConfig({
       },
     },
   },
-
-  output: 'server',
-  adapter: vercel(),
 })
