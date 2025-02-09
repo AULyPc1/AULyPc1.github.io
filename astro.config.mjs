@@ -1,7 +1,6 @@
 import sitemap from '@astrojs/sitemap'
 import svelte from '@astrojs/svelte'
 import tailwind from '@astrojs/tailwind'
-import vercel from '@astrojs/vercel' /* vercel */
 import swup from '@swup/astro'
 import Compress from 'astro-compress'
 import icon from 'astro-icon'
@@ -44,9 +43,6 @@ const oklchToHex = str => {
 // https://astro.build/config
 
 export default defineConfig({
-  output: 'server' /* vercel */,
-  adapter: vercel() /* vercel */,
-
   site: 'https://aulypc1.github.io',
   base: '/',
   trailingSlash: 'always',
