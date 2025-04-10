@@ -146,4 +146,11 @@ series: Symholic
 > 自己文笔有限，感觉好多地方都没有清楚的写出自己的感受  
 > 注意!以上内容均为本人个人见解  
 > 欢迎和谐讨论  
+
+> 2025年4月11日更新  
+10号晚上，博主还在忙着升级博客  
+突然被好友消息打断，一看原来文章被官方翻牌了  
+
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">没想到能被发现，我的写作水平一般，好多内心的想法情感没能顺利的写下来。<br>首先感谢Paspal带来的故事，自从被『METEOR』中感人的故事以及充满谜团的世界观吸引后，一直不能忘怀。<br>同样也十分感谢伞粗粗的翻译。 <a href="https://t.co/apEpArHzAf">https://t.co/apEpArHzAf</a></p>&mdash; 𝐴𝑈_𝐿𝑦_𝑃𝑐/spy飖 (@AULyPc1) <a href="https://twitter.com/AULyPc1/status/1910312136821358864?ref_src=twsrc%5Etfw">April 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/meteor/1.webp)

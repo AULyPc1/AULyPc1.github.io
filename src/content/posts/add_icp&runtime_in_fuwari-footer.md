@@ -2,7 +2,7 @@
 title: 如何在Fuwari页脚添加ICP、运行时间等信息
 published: 2024-09-05
 description: '如何在Fuwari页脚添加ICP、运行时间等信息'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/89478080_p1.webp'
+image: 'https://image.aulypc0x0.online/img/89478080_p1.webp'
 tags: [Fuwari, 搭建]
 category: 网站
 draft: false
@@ -12,7 +12,7 @@ series: 博客改造
 :::note[封面来源]
 [Anmi-海で会おう](https://www.pixiv.net/artworks/89478080)
 :::
-> ### footer添加备案、又拍云CDN、运行时间等信息
+
 > 本来想用[shields](https://shields.io/)的图标的  
 > <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/shields_logo.png" width="70%" title=""/>
 > 结果有点不搭，有点难看  
@@ -36,7 +36,7 @@ series: 博客改造
 > 当然删除与否根据你的需求来判断  
 > :::
 
-```astro
+```astro title="src/components/Footer.astro" ins={20,23-32}
 ---
 
 import { profileConfig } from '../config'
@@ -60,14 +60,14 @@ import { url } from '../utils/url-utils'
     </div>
 
 <!--运行时间 -->
-    <script type="text/javascript">function runtime(){const t=new Date("09/01/2024 08:00:00"),n=new Date,s=n-t,e=Math.floor(s/1e3),o=Math.floor(e/86400),i=Math.floor(e%86400/3600),a=Math.floor(e%3600/60),r=e%60;document.getElementById("runningtime").innerHTML=`⭐本站已运行: ${o}天${i}小时${a}分${r}秒 ☁️`}setInterval(runtime,1e3)</script> // [!code ++]
-    <div class="transition text-50 text-sm text-center hidden md:block"><p id="runningtime"> </p></div> // [!code ++]
+    <script type="text/javascript">function runtime(){const t=new Date("09/01/2024 08:00:00"),n=new Date,s=n-t,e=Math.floor(s/1e3),o=Math.floor(e/86400),i=Math.floor(e%86400/3600),a=Math.floor(e%3600/60),r=e%60;document.getElementById("runningtime").innerHTML=`⭐本站已运行: ${o}天${i}小时${a}分${r}秒 ☁️`}setInterval(runtime,1e3)</script>
+    <div class="transition text-50 text-sm text-center hidden md:block"><p id="runningtime"> </p></div>
 
 <!--右侧备案等信息 -->
-    <div class="transition text-50 text-sm max-md:text-right mt-2"> // [!code ++]
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href={'https://beian.miit.gov.cn'}>xICP备xxxxxxxxxx号</a>  // [!code ++]
-        <br> // [!code ++]
-        <a class="link text-[var(--primary)] font-medium" target="_blank" href={'https://icp.gov.moe/?keyword=20245060'}>萌ICP备20245060号</a>  // [!code ++]
-    </div> // [!code ++]
+    <div class="transition text-50 text-sm max-md:text-right mt-2">
+        <a class="link text-[var(--primary)] font-medium" target="_blank" href={'https://beian.miit.gov.cn'}>xICP备xxxxxxxxxx号</a>
+        <br>
+        <a class="link text-[var(--primary)] font-medium" target="_blank" href={'https://icp.gov.moe/?keyword=20245060'}>萌ICP备20245060号</a>
+    </div>
 </div>
 ```

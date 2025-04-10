@@ -1,15 +1,15 @@
 ---
-import { Icon } from 'astro-icon/components'
-import { profileConfig } from '../../config'
-import { url } from '../../utils/url-utils'
-import ImageWrapper from '../misc/ImageWrapper.astro'
+import { Icon } from "astro-icon/components";
+import { profileConfig } from "../../config";
+import { url } from "../../utils/url-utils";
+import ImageWrapper from "../misc/ImageWrapper.astro";
 
-const config = profileConfig
+const config = profileConfig;
 ---
 <div class="card-base p-3">
     <a aria-label="Go to About Page" href={url('/about/')}
        class="group block relative mx-auto mt-1 lg:mx-0 lg:mt-0 mb-3
-       max-w-[240px] lg:max-w-none overflow-hidden rounded-xl active:scale-95">
+       max-w-[12rem] lg:max-w-none overflow-hidden rounded-xl active:scale-95">
         <div class="absolute transition pointer-events-none group-hover:bg-black/30 group-active:bg-black/50
         w-full h-full z-50 flex items-center justify-center">
             <Icon name="fa6-regular:address-card"
@@ -37,50 +37,26 @@ const config = profileConfig
     </div>
 
 <!--在社交栏增加第二栏rss等长方形按钮 -->
-    <div class="flex gap-2 justify-center mb-1">
-        <a href=mailto:cecilybenson8@gmail.com class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="mail" target=_blank rel="me">
-            <svg class="text-[1.5rem]" data-icon="material-symbols-mail-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
-                <symbol id="material-symbols-mail-outline-rounded">
-                    <path d="M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zM20 8l-7.475 4.675q-.125.075-.262.113t-.263.037t-.262-.037t-.263-.113L4 8v10h16zm-8 3l8-5H4zM4 8v.25v-1.475v.025V6v.8v-.012V8.25zv10z" fill="currentColor"></path>
-                </symbol>
-                <use xlink:href="#material-symbols-mail-outline-rounded"></use>
-            </svg>
-            Email
-        </a>
-        <a href=/rss.xml class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="RSS" target=_blank rel="me">
-            <svg class="text-[1.5rem]" data-icon="material-symbols:rss-feed-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
-                <symbol id="ai:material-symbols:rss-feed-rounded">
-                    <path d="M5 21q-.825 0-1.412-.587T3 19t.588-1.412T5 17t1.413.588T7 19t-.587 1.413T5 21m13.5 0q-.65 0-1.088-.475T16.9 19.4q-.275-2.425-1.312-4.537T12.9 11.1T9.138 8.413T4.6 7.1q-.65-.075-1.125-.512T3 5.5t.45-1.062t1.075-.363q3.075.275 5.763 1.563t4.737 3.337t3.338 4.738t1.562 5.762q.05.625-.363 1.075T18.5 21m-6 0q-.625 0-1.075-.437T10.85 19.5q-.225-1.225-.787-2.262T8.65 15.35t-1.888-1.412T4.5 13.15q-.625-.125-1.062-.575T3 11.5q0-.65.45-1.075t1.075-.325q1.825.25 3.413 1.063t2.837 2.062t2.063 2.838t1.062 3.412q.1.625-.325 1.075T12.5 21" fill="currentColor"></path>
-                </symbol>
-                <use xlink:href="#ai:material-symbols:rss-feed-rounded"></use>
-            </svg>
-            RSS
-        </a>
-    </div>
-
-
-    <!--<div class="flex gap-2 justify-center mb-1">
-        <a href="https://timeline.aulypc0x0.online" class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="timeline" target=_blank rel="me">
-            <svg class="text-[1.5rem]" data-icon="material-symbols-directions-railway-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
-                <symbol id="material-symbols-directions-railway-outline-rounded">
-                    <path d="M4 15.5V6q0-2.075 1.925-3.037T12 2q4.3 0 6.15.925T20 6v9.5q0 1.475-1.012 2.488T16.5 19l1.625 1.075q.3.2.2.563T17.85 21H6.15q-.375 0-.475-.363t.2-.562L7.5 19q-1.475 0-2.487-1.012T4 15.5M6 10h12V7H6zm10.5 2H6h12zM12 16q.625 0 1.063-.437T13.5 14.5t-.437-1.062T12 13t-1.062.438T10.5 14.5t.438 1.063T12 16m-4.5 1h9q.65 0 1.075-.425T18 15.5V12H6v3.5q0 .65.425 1.075T7.5 17M12 4q-2.15 0-3.562.25T6.45 5h11.2q-.45-.5-1.862-.75T12 4m0 1h5.65h-11.2z" fill="currentColor"></path>
-                </symbol>
-                <use xlink:href="#material-symbols-directions-railway-outline-rounded"></use>
-            </svg>
-            --My Timeline--
-        </a>
-
-        在社交栏增加第三栏云盘等长方形按钮 
-        <a href="http://alist.aulypc0x0.online" class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="alist" target=_blank rel="me">
-            <svg class="text-[1.5rem]" data-icon="material-symbols-cloud-download-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
-                <symbol id="material-symbols-cloud-download-outline-rounded">
-                    <path d="M11 12.15V6.1q-1.9.35-2.95 1.838T7 11h-.5q-1.45 0-2.475 1.025T3 14.5t1.025 2.475T6.5 18h12q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-1.2-.55-2.238T15 7V4.675q1.85.875 2.925 2.588T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20h-12q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.425-1.8 2.125-3.425T11 4.1q.825 0 1.413.588T13 6.1v6.05l.9-.875q.275-.275.688-.275t.712.3q.275.275.275.7t-.275.7l-2.6 2.6q-.3.3-.7.3t-.7-.3l-2.6-2.6q-.275-.275-.287-.687T8.7 11.3q.275-.275.688-.288t.712.263zm1-1.1" fill="currentColor"></path>
-                </symbol>
-                <use xlink:href="#material-symbols-cloud-download-outline-rounded"></use>
-            </svg>
-            Alist
-        </a>
-         -->
+<div class="flex gap-2 justify-center mb-1">
+    <a href=mailto:cecilybenson8@gmail.com class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="mail" target=_blank rel="me">
+        <svg class="text-[1.5rem]" data-icon="material-symbols-mail-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
+            <symbol id="material-symbols-mail-outline-rounded">
+                <path d="M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zM20 8l-7.475 4.675q-.125.075-.262.113t-.263.037t-.262-.037t-.263-.113L4 8v10h16zm-8 3l8-5H4zM4 8v.25v-1.475v.025V6v.8v-.012V8.25zv10z" fill="currentColor"></path>
+            </symbol>
+            <use xlink:href="#material-symbols-mail-outline-rounded"></use>
+        </svg>
+        Email
+    </a>
+    <a href=/rss.xml class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="RSS" target=_blank rel="me">
+        <svg class="text-[1.5rem]" data-icon="material-symbols:rss-feed-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
+            <symbol id="ai:material-symbols:rss-feed-rounded">
+                <path d="M5 21q-.825 0-1.412-.587T3 19t.588-1.412T5 17t1.413.588T7 19t-.587 1.413T5 21m13.5 0q-.65 0-1.088-.475T16.9 19.4q-.275-2.425-1.312-4.537T12.9 11.1T9.138 8.413T4.6 7.1q-.65-.075-1.125-.512T3 5.5t.45-1.062t1.075-.363q3.075.275 5.763 1.563t4.737 3.337t3.338 4.738t1.562 5.762q.05.625-.363 1.075T18.5 21m-6 0q-.625 0-1.075-.437T10.85 19.5q-.225-1.225-.787-2.262T8.65 15.35t-1.888-1.412T4.5 13.15q-.625-.125-1.062-.575T3 11.5q0-.65.45-1.075t1.075-.325q1.825.25 3.413 1.063t2.837 2.062t2.063 2.838t1.062 3.412q.1.625-.325 1.075T12.5 21" fill="currentColor"></path>
+            </symbol>
+            <use xlink:href="#ai:material-symbols:rss-feed-rounded"></use>
+        </svg>
+        RSS
+    </a>
+</div>
 
     </div>
 </div>

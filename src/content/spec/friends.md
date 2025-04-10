@@ -9,8 +9,6 @@
 > ```
 > title: 'AULyPcのBlog',
 > imgurl: 'https://blog.aulypc0x0.online/favicon/favicon_amiya.webp',
-> descr: '今日も生きててえらい ☁',
+> desc: '今日も生きててえらい ☁',
 > siteurl: 'https://blog.aulypc0x0.online',
-> tags: ['tag可有可无'],
 > ```
-

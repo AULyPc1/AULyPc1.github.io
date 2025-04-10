@@ -14,9 +14,12 @@ series: 博客改造
 ::github{repo="ccbikai/BroadcastChannel"}  
 
 下面👇是我的页面链接  
-[AULyPcの日常](https://timeline.aulypc0x0.online/)  
+~~[AULyPcの日常](https://timeline.aulypc0x0.online/)~~  
+(电报频道被风控，后续部署显示异常，故取消该页面)  
+  
 因为页面看起来更类似时间线排列的形式  
-所以就使用``timeline.xxx.xxx``作为二级域名使用  
+~~所以就使用``timeline.xxx.xxx``作为二级域名使用~~  
+该二级域名后来被我作为备用博客站点使用  
 
 该项目可以通过Docker部署或者通过Cloudflare、Netlify、Vercel等平台部署  
 由于没用过docker所以我就通过vercel进行了部署  
@@ -71,11 +74,11 @@ IFTTT搭配[BotFather](https://telegram.me/BotFather)来使用
 这样的话不太方便我们计算发布的时间  
 故改为下图右侧的形式  
 <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/time.webp" border=0 width=400 height="">
-在```src/components/item.astro```中  
-```astro
+在```src/components/item.astro```中进行修改  
+```astro title="src/components/item.astro" del={2,11} ins={3,12}
 const datetime = dayjs(post.datetime).tz(timezone)
-const timeago = datetime.isBefore(dayjs().subtract(1, 'w')) ? datetime.format('HH:mm · ll · ddd') : datetime.fromNow() // [!code --]
-const timeago = datetime.format('HH:mm · YYYY年MM月DD日 · ddd') // [!code ++]
+const timeago = datetime.isBefore(dayjs().subtract(1, 'w')) ? datetime.format('HH:mm · ll · ddd') : datetime.fromNow()
+const timeago = datetime.format('HH:mm · YYYY年MM月DD日 · ddd')
 ---
 
 <div class="item" style={{ 'view-transition-name': `post-${post.id}` }}>
@@ -83,9 +86,8 @@ const timeago = datetime.format('HH:mm · YYYY年MM月DD日 · ddd') // [!code +
     <div class="dot"></div>
     <div class="time">
       <a href={`${SITE_URL}posts/${post.id}`} title={post.datetime} class="item-link">
-        <time datetime={post.datetime} title={timeago}>{timeago}</time> // [!code --]
-        <time>{timeago}</time> // [!code ++]
-        <!-- 👆这里的时间做了修改-->
+        <time datetime={post.datetime} title={timeago}>{timeago}</time>
+        <time>{timeago}</time> <!-- 👈这里的时间做了修改-->
       </a>
     </div>
   </div>

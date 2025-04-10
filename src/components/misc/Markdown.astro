@@ -1,24 +1,64 @@
 ---
-import '@fontsource-variable/jetbrains-mono'
-import '@fontsource-variable/jetbrains-mono/wght-italic.css'
+import path from 'node:path'
+import { getImage } from 'astro:assets';
+import { parseHTML } from "linkedom";
+import "@fontsource-variable/jetbrains-mono";
+import "@fontsource-variable/jetbrains-mono/wght-italic.css";
 
 interface Props {
-  class: string
+	class: string;
+	basePath?: string;
 }
-const className = Astro.props.class
+
+const { class: className, basePath = "/" } = Astro.props;
+
+/*
+ * Normally, relative paths under the `src` directory are handled by Astro.
+ * However, paths that the plugin couldn't process may appear here and require separate handling.
+ */
+const html = await Astro.slots.render("default");
+const { document } = parseHTML(html);
+
+await (async () => {
+	// biome-ignore lint/suspicious/noExplicitAny: <explanation>
+	const modules: Record<string, any> = import.meta.glob(
+		"../../**/*.{jpeg,jpg,png,tiff,webp,gif,svg,avif}",
+	);
+	const re = /^(?![a-zA-Z]+:\/|\/)/;
+
+	for (const img of document.querySelectorAll("img")) {
+		const src = img.getAttribute("src");
+		if (!src || !re.test(src)) continue;
+
+		const normalizedPath = path
+			.normalize(path.join("../../", basePath, src))
+			.replaceAll("\\", "/");
+		const moduleLoader = modules[normalizedPath];
+		if (!moduleLoader) continue;
+
+		try {
+			const module = await moduleLoader();
+			const result = await getImage({ src: module.default });
+			img.setAttribute("src", result.src);
+		} catch (error) {
+			console.warn(
+				`Skipping image "${normalizedPath}" due to processing error:`,
+				error,
+			);
+		}
+	}
+})();
 ---
 <div data-pagefind-body class=`prose dark:prose-invert prose-base !max-w-none custom-md ${className}`>
     <!--<div class="prose dark:prose-invert max-w-none custom-md">-->
     <!--<div class="max-w-none custom-md">-->
-    <slot/>
+    <Fragment set:html={document.toString()} />
 </div>
 
-<script>
+<!-- <script>
   const observer = new MutationObserver(addPreCopyButton);
   observer.observe(document.body, { childList: true, subtree: true });
   
-  document.addEventListener("DOMContentLoaded", addPreCopyButton);
-
   function addPreCopyButton() {
     observer.disconnect();
     
@@ -63,49 +103,4 @@ const className = Astro.props.class
     
     observer.observe(document.body, { childList: true, subtree: true });
   }
-</script>
-
-
-<!--👇添加transformers样式 -->
-<style is:global>
-  /* transformerNotationDiff */
-  .line.diff.add {
-    background-color: #174d2c;
-  }
-  .line.diff.remove {
-    background-color: #440e11;
-  }
-  .line.diff.add:before {
-    content: '+ ';
-    color: #4affa8;
-    opacity: 0.6;
-  }
-  .line.diff.remove:before {
-    content: '- ';
-    color: #ff5e61;
-    opacity: 0.6;
-  }
-  
-  /* transformerNotationHighlight */
-  .line.highlighted {
-    background-color: #3c3f45;
-  }
-  
-  /* transformerNotationWordHighlight */
-  .highlighted-word {
-    background-color: #3c3f45;
-    border: 1px solid #464b52;
-    padding: 1px 3px;
-    margin: -1px -2px;
-    border-radius: 4px;
-  }
-  
-  /* transformerNotationErrorLevel */
-  .line.highlighted.error {
-    background-color: #440e11;
-  }
-  .line.highlighted.warning {
-    background-color: #583410;
-  }
-</style>
-<!--👆添加transformers样式 -->
+</script>-->

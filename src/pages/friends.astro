@@ -1,159 +1,173 @@
 ---
 
-import MainGridLayout from '../layouts/MainGridLayout.astro'
+import MainGridLayout from "../layouts/MainGridLayout.astro";
 
-import { getEntry } from 'astro:content'
-import Markdown from '@components/misc/Markdown.astro'
-import I18nKey from '../i18n/i18nKey'
-import { i18n } from '../i18n/translation'
+import { getEntry } from "astro:content";
+import { render } from "astro:content";
+import Markdown from "@components/misc/Markdown.astro";
+import Comments from "@components/widget/Comments.svelte"; /*评论 */
+import I18nKey from "../i18n/i18nKey";
+import { i18n } from "../i18n/translation";
 
-const friendsPost = await getEntry('spec', 'friends')
+const friendsPost = await getEntry("spec", "friends");
 
-const { Content } = await friendsPost.render()
+if (!friendsPost) {
+	throw new Error("About page content not found");
+}
 
+const { Content } = await render(friendsPost);
 const items = [
-  {
-    title: '咖啡豆子coffee的小站',
-    imgurl: 'https://blog.kfdzcoffee.cn/upload/mmexport1715001096100.png',
-    desc: '所有奇迹的始发点',
-    siteurl: 'https://blog.kfdzcoffee.cn',
-  },
-  {
-    title: '珊星雪の小屋',
-    imgurl: 'https://snowtafir.top/img/avatar.webp',
-    desc: '银光渐深星无灭，古杉月空探花雪。浮尘荡风埃不落，杨柳春晨与露飞',
-    siteurl: 'https://snowtafir.top/',
-  },
-  {
-    title: 'CottonCZ',
-    imgurl:
-      'https://raw.githubusercontent.com/CottonCandyZ/blog-t3/main/public/linkAvatar/AvatarSample.webp',
-    desc: 'Just For Fun!',
-    siteurl: 'https://home.nanachi.moe/',
-  },
-  {
-    title: '咸鱼小窝',
-    imgurl: 'https://bu.dusays.com/2023/12/04/656d6235635ef.webp',
-    desc: '我们终将会在没有黑暗的地方相遇',
-    siteurl: 'https://qqquq.com',
-  },
-  {
-    title: '梦落の小屋',
-    imgurl: 'https://img.mengluo.work/avatar.jpg',
-    desc: '因为不可能，所以才值得相信',
-    siteurl: 'https://blog.dreamfall.cn',
-  },
-  {
-    title: '伊卡的记事本',
-    imgurl: 'https://ikamusume7.org/_astro/avatar.CeoYsUVW_A8JzS.webp',
-    desc: '又菜有爱学',
-    siteurl: 'https://ikamusume7.org/',
-  },
-  {
-    title: '关怀他人の小屋',
-    imgurl: 'https://guanhuai04.github.io/_astro/avatar.CR4rRPNV_1yNGc0.webp',
-    desc: '世界以痛吻我，我却报之以歌',
-    siteurl: 'https://guanhuai04.github.io/',
-  },
-  {
-    title: 'Hikari-Co',
-    imgurl: 'https://pub.hikari-co.site/avatar-hikari.jpg',
-    desc: '（<ゝω・）☆~',
-    siteurl: 'https://hikari-co.site/',
-  },
-  {
-    title: 'Magma Ink',
-    imgurl: 'https://q1.qlogo.cn/g?b=qq&nk=823202450&s=640',
-    desc: '为美好的生活献礼',
-    siteurl: 'https://magma.ink/',
-  },
-  {
-    title: 'SuemorのBlog',
-    imgurl: 'https://y.suemor.com/suemor-avatar.jpeg',
-    desc: '所谓自由就是可以说二加二等于四的自由',
-    siteurl: 'https://suemor.com/',
-  },
-  {
-    title: '御坂秋生の小窝',
-    imgurl: 'https://webstatic.akio.top/user/NiuBoss123.jpg',
-    desc: '不努力就只能听到别人的好消息',
-    siteurl: 'https://www.akio.top/',
-  },
-  {
-    title: "Snowball_233's Blog",
-    imgurl: 'https://avatars.githubusercontent.com/u/97330394?v=4',
-    desc: "Snowball_233's Personal Blog",
-    siteurl: 'https://blog.qwq.my/',
-  },
-  {
-    title: 'Bingxin Home',
-    imgurl: 'https://blog.byteloid.one/img/march7th.webp',
-    desc: '相聚于此乐土。',
-    siteurl: 'https://blog.byteloid.one',
-  },
-  {
-    title: 'JIPA233の小窝',
-    imgurl: 'https://jipa.moe/static/avatar.jpg',
-    desc: 'Deed divides beings into lower and higher ones.',
-    siteurl: 'https://jipa.moe',
-  },
-  {
-    title: '木又',
-    imgurl: 'https://p0w3rshe11.github.io/_astro/avatar.DYxwr5j-_1E7fpL.webp',
-    desc: '学海无涯，勤奋向前',
-    siteurl: 'https://p0w3rshe11.github.io/',
-  },
-]
+	{
+		title: "咖啡豆子coffee的小站",
+		imgurl: "https://blog.kfdzcoffee.cn/upload/mmexport1715001096100.png",
+		desc: "所有奇迹的始发点",
+		siteurl: "https://blog.kfdzcoffee.cn",
+	},
+	{
+		title: "珊星雪の小屋",
+		imgurl: "https://snowtafir.top/img/avatar.webp",
+		desc: "银光渐深星无灭，古杉月空探花雪。浮尘荡风埃不落，杨柳春晨与露飞",
+		siteurl: "https://snowtafir.top/",
+	},
+	{
+		title: "CottonCZ",
+		imgurl:
+			"https://raw.githubusercontent.com/CottonCandyZ/blog-t3/main/public/linkAvatar/AvatarSample.webp",
+		desc: "Just For Fun!",
+		siteurl: "https://home.nanachi.moe/",
+	},
+	{
+		title: "咸鱼小窝",
+		imgurl: "https://bu.dusays.com/2023/12/04/656d6235635ef.webp",
+		desc: "我们终将会在没有黑暗的地方相遇",
+		siteurl: "https://qqquq.com",
+	},
+	{
+		title: "梦落の小屋",
+		imgurl: "https://img.mengluo.work/avatar.jpg",
+		desc: "因为不可能，所以才值得相信",
+		siteurl: "https://blog.dreamfall.cn",
+	},
+	{
+		title: "伊卡的记事本",
+		imgurl: "https://ikamusume7.org/avatar.webp",
+		desc: "又菜又爱学",
+		siteurl: "https://ikamusume7.org/",
+	},
+	{
+		title: "关怀他人の小屋",
+		imgurl: "https://guanhuai04.github.io/_astro/avatar.CR4rRPNV_1yNGc0.webp",
+		desc: "世界以痛吻我，我却报之以歌",
+		siteurl: "https://guanhuai04.github.io/",
+	},
+	{
+		title: "Hikari-Co",
+		imgurl: "https://pub.hikari-co.site/avatar-hikari.jpg",
+		desc: " （<ゝω・）☆~",
+		siteurl: "https://hikari-co.site/",
+	},
+	{
+		title: "Magma Ink",
+		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=823202450&s=640",
+		desc: "为美好的生活献礼",
+		siteurl: "https://magma.ink/",
+	},
+	{
+		title: "SuemorのBlog",
+		imgurl: "https://y.suemor.com/suemor-avatar.jpeg",
+		desc: "所谓自由就是可以说二加二等于四的自由",
+		siteurl: "https://suemor.com/",
+	},
+	{
+		title: "御坂秋生の小窝",
+		imgurl: "https://webstatic.akio.top/user/NiuBoss123.jpg",
+		desc: "不努力就只能听到别人的好消息",
+		siteurl: "https://www.akio.top/",
+	},
+	{
+		title: "Snowball_233's Blog",
+		imgurl: "https://avatars.githubusercontent.com/u/97330394?v=4",
+		desc: "Snowball_233's Personal Blog",
+		siteurl: "https://blog.qwq.my/",
+	},
+	{
+		title: "Bingxin Home",
+		imgurl: "https://blog.byteloid.one/img/march7th.webp",
+		desc: "相聚于此乐土。",
+		siteurl: "https://blog.byteloid.one",
+	},
+	{
+		title: "JIPA233の小窝",
+		imgurl: "https://jipa.moe/static/avatar.jpg",
+		desc: "Deed divides beings into lower and higher ones.",
+		siteurl: "https://jipa.moe",
+	},
+	{
+		title: "木又",
+		imgurl: "https://p0w3rshe11.github.io/_astro/avatar.DYxwr5j-_1E7fpL.webp",
+		desc: "学海无涯，勤奋向前",
+		siteurl: "https://p0w3rshe11.github.io/",
+	},
+	{
+		title: "雨后初晴社",
+		imgurl: "http://image.rainafter.cn/i/2025/03/08/67cbf3ae27bed.jpg",
+		desc: "追求源于热爱，极致源于梦想。理想是成为一名架构师。",
+		siteurl: "https://www.rainafter.cn",
+	},
+	{
+		title: "Kay's Blog",
+		imgurl: "https://blog.kayxue.xyz/avatar.jpg",
+		desc: "The most beautiful things in the world are not seen or even heard, but are felt with the heart.",
+		siteurl: "https://blog.kayxue.xyz/",
+	},
+	{
+		title: "DDverse",
+		imgurl: "https://blog.atri.pw/img/avatar_hu_4641e1f24e8888ed.png",
+		desc: "Live a life of serenity, not a life of regrets.",
+		siteurl: "https://blog.atri.pw",
+	},
+	{
+		title: "詠夏日記",
+		imgurl: "https://yomi.moe/assets/avatar.png",
+		desc: "人よ、幸福に生きろ！",
+		siteurl: "https://blog.yomi.moe/",
+	},
+];
 
 // 随机排序 items 数组
-const shuffledItems = items.sort(() => Math.random() - 0.5)
+const shuffledItems = items.sort(() => Math.random() - 0.5);
 ---
 <MainGridLayout title={i18n(I18nKey.friends)} description={i18n(I18nKey.friends)}>
     <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
         <div class="card-base z-10 px-9 py-6 relative w-full ">
 
 <!-- 下面 <Markdown>以上部分参考La02^的代码实现友链页面-->
-
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-8 my-4">
-                 {shuffledItems.map((item) => (  /*👈原代码 {items.map((item) => (*/
-                    <div class="flex flex-nowrap items-stretch h-28 gap-4 rounded-[var(--radius-large)]">
-                        <div class="w-28 h-28 flex-shrink-0 rounded-lg overflow-hidden bg-zinc-200 dark:bg-zinc-900">
-                            <img src={item.imgurl} alt="站点头像" class="w-full h-full object-cover">
-                        </div>
-                        <div class="grow w-full">
-                            <div class="font-bold transition text-lg text-neutral-900 dark:text-neutral-100 mb-1">{item.title}</div>
-                            <div class="text-50 text-sm font-medium">{item.desc}</div>
-                        </div>
-                        <a href={item.siteurl} target="_blank" rel="noopener noreferrer"class="flex btn-regular w-[3.25rem] rounded-lg bg-[var(--enter-btn-bg)] hover:bg-[var(--enter-btn-bg-hover)] active:bg-[var(--enter-btn-bg-active)] active:scale-95">
-                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="transition text-[var(--primary)] text-4xl mx-auto iconify iconify--material-symbols" width="1em" height="1em" viewBox="0 0 24 24">
-                                <path fill="currentColor" d="M12.6 12L8.7 8.1q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l4.6 4.6q.15.15.213.325t.062.375t-.062.375t-.213.325l-4.6 4.6q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7z"></path>
-                            </svg>
-                        </a>
-                    </div>
-                ))}
-            </div>
-            <Markdown class="mt-2">
-                <Content />
-            </Markdown>
-        </div>
-    </div>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-8 my-4">
+    {shuffledItems.map((item) => (  /*👈原代码 {items.map((item) => (*/
+       <div class="flex flex-nowrap items-stretch h-28 gap-4 rounded-[var(--radius-large)]">
+           <div class="w-28 h-28 flex-shrink-0 rounded-lg overflow-hidden bg-zinc-200 dark:bg-zinc-900">
+               <img src={item.imgurl} alt="站点头像" class="w-full h-full object-cover">
+           </div>
+           <div class="grow w-full">
+               <div class="font-bold transition text-lg text-neutral-900 dark:text-neutral-100 mb-1">{item.title}</div>
+               <div class="text-50 text-sm font-medium">{item.desc}</div>
+           </div>
+           <a href={item.siteurl} target="_blank" rel="noopener noreferrer"class="flex btn-regular w-[3.25rem] rounded-lg bg-[var(--enter-btn-bg)] hover:bg-[var(--enter-btn-bg-hover)] active:bg-[var(--enter-btn-bg-active)] active:scale-95">
+               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="transition text-[var(--primary)] text-4xl mx-auto iconify iconify--material-symbols" width="1em" height="1em" viewBox="0 0 24 24">
+                   <path fill="currentColor" d="M12.6 12L8.7 8.1q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l4.6 4.6q.15.15.213.325t.062.375t-.062.375t-.213.325l-4.6 4.6q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7z"></path>
+               </svg>
+           </a>
+       </div>
+   ))}
+</div>
+<Markdown class="mt-2">
+   <Content />
+</Markdown>
+</div>
+</div>
 
 
 <!-- giscus评论 -->
-<script src="https://giscus.app/client.js"
-        data-repo="AULyPc1/AULyPc1.github.io"
-        data-repo-id="R_kgDONp8F4A"
-        data-category="Announcements"
-        data-category-id="DIC_kwDONp8F4M4CmzoY"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
+<Comments client:only></Comments>
 
 </MainGridLayout>

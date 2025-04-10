@@ -86,13 +86,13 @@ series: FCM推送
 > [MinaMichita博客](https://blog.minamigo.moe/archives/1022)
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/5.jpg" border=0 width=430 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/5.jpg" border=0 width=600 height=""></td>
 </tr></table>
 
 ## 结果
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/6.jpg" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/6.jpg" border=0 width=450 height=""></td>
 </tr></table>
 
 > 从结果上看是好的，推送也很及时，好像没出现断连的现象了  
@@ -107,7 +107,7 @@ series: FCM推送
 > 在某一个论坛上找到个帖子[分享一种解决安卓手机收不到谷歌通知的问题的一种方法](https://hk.v2ex.com/t/1024853)  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/7.jpg" border=0 width=400 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/7.jpg" border=0 width=600 height=""></td>
 </tr></table>
 
 > clash for Android 设置hosts时又提示要什么键和值  
@@ -125,7 +125,7 @@ series: FCM推送
 > 按照上面那个帖子的另外一种做法试了下  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/8.jpg" border=0 width=300 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/8.jpg" border=0 width=500 height=""></td>
 </tr></table>
 
 > 但是手机clash for Android不能直接导入文件和修改文件  
@@ -134,5 +134,5 @@ series: FCM推送
 > 这次连接时间近两个小时  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/9.jpg" border=0 width=300 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/9.jpg" border=0 width=500 height=""></td>
 </tr></table>

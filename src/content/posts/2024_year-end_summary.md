@@ -7,7 +7,7 @@ tags: [年终]
 category: 日常
 draft: false
 language: ''
-series: 日常
+series: 年终总结
 ---
 
 :::note

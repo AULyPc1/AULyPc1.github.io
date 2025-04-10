@@ -2,7 +2,7 @@
 title: 简单的从零开始搭建Fuwari
 published: 2024-09-03
 description: '简单的从零开始搭建Fuwari'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/20230509_024446.webp'
+image: 'https://image.aulypc0x0.online/img/20230509_024446.webp'
 tags: [Fuwari, 搭建]
 category: 网站
 draft: false
@@ -37,7 +37,7 @@ series: 博客改造
 
 > ### config.ts部分配置参考
 >  站点信息&顶部图
-> ```ts
+> ```ts file=src\config.ts
 > export const siteConfig: SiteConfig = {
 >   title: '你的标题',
 >   subtitle: '你的副标题',
@@ -58,7 +58,7 @@ series: 博客改造
 >   },
 
 > 顶部导航栏github部分
-> ```ts
+> ```ts file=src\config.ts
 > export const navBarConfig: NavBarConfig = {
 >   links: [
 >     LinkPreset.Home,
@@ -74,7 +74,7 @@ series: 博客改造
 > ```
 
 左侧信息页配置
-> ```ts
+> ```ts file=src\config.ts
 > export const profileConfig: ProfileConfig = {
 >   avatar: 'assets/images/avatar.png',  // 头像图片文件路径
 >   name: 'AULyPc',     // 你的昵称
@@ -124,13 +124,12 @@ series: 博客改造
 ### 全局页面宽度
 在文件```src\layouts\Layout.astro```内更改  
 (新版主题好像没这块的代码)  
-```
+```astro file=src\layouts\Layout.astro
 <style is:global>
 	:root {
 		--hue: var(--configHue);
-		--page-width: 75rem; // [!code --]
-		--page-width: 81rem; /*👈这里改全局页面宽度 */ // [!code ++] 
+		--page-width: 75rem; /*👈这里改全局页面宽度 */
 	}
 </style>
 ```
->  ```以上，have yourself``` 
+> 以上，have yourself  

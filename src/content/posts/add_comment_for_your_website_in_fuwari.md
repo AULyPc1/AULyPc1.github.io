@@ -2,7 +2,7 @@
 title: 利用giscus给你的网站添加评论功能
 published: 2024-09-06
 description: '利用 GitHub Discussions 实现的评论系统，让访客借助 GitHub 在你的网站上留下评论'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/88886922_p0.webp'
+image: 'https://image.aulypc0x0.online/img/88886922_p0.webp'
 tags: [Fuwari, 搭建, 评论]
 category: 网站
 draft: false
@@ -27,10 +27,10 @@ series: 博客改造
 > 1. 访问[giscus配置页面](https://giscus.app/zh-CN)
 
 > 2. 选择你想要显示的语言  
-> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/language.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/language.png" width="50%" title=""/>
 
 > 3. 创建一个符合要求的仓库  
-> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/cangku.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/cangku.png" width="60%" title=""/>
 > 分别点击蓝色字体，可直接跳转到相关设置页面  
 > 在满足上述3点要求后，输入你的[用户名/仓库名]  
 > 才会显示 ```成功!该仓库满足所以条件```  
@@ -50,13 +50,20 @@ series: 博客改造
 > 懒加载看情况进行选择，我这里就没选  
 
 > 7. 主题
-> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/giscus_theme.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/giscus_theme.png" width="50%" title=""/>
 > 默认即可  
 > 但对于经常切换白天/黑暗模式的用户来说可能不是很友好  
 > 博主这里选择的是 ```用户偏好的色彩方案```  
 > 白天模式中很正常，但切换到黑暗模式后  
 > giscus仍保持白色，很突兀  
 > 这点博主暂时还没查找有关资料  
+
+:::important
+更新  
+关于该评论功能在黑暗模式下主题更改问题  
+各位可以去参考伊卡大佬的这篇教程  
+[在Fuwari中添加评论功能(带黑暗模式)](https://ikamusume7.org/posts/frontend/comments_with_darkmode/)
+:::
 
 > 8. 插入代码
 > 按照顺序配置好后  
@@ -79,10 +86,10 @@ series: 博客改造
 > </script>
 > ```
 
-> :::note[注意]
-> 博主使用的是[astro框架](https://github.com/withastro/astro)&[fuwari主题](https://github.com/saicaca/fuwari)  
-> 其他框架及主题的插入位置，请根据自身配置  
-> :::
+:::note[注意]
+博主使用的是[astro框架](https://github.com/withastro/astro)&[fuwari主题](https://github.com/saicaca/fuwari)  
+其他框架及主题的插入位置，请根据自身配置  
+:::
 
 > ### 友链页面
 > 如果你还没在fuwari上创建友链页面的话  
@@ -90,7 +97,7 @@ series: 博客改造
 > 如果已经创建好，请在 ```src\pages\friends.astro``` 文件中修改  
 > 直接插入最后一行上方即可  
 
-```js
+```js title="src\pages\friends.astro" ins={7-22}
             <Markdown class="mt-2">
                 <Content />
             </Markdown>
@@ -98,21 +105,21 @@ series: 博客改造
     </div>
 
 <!-- giscus评论 -->
-<script src="https://giscus.app/client.js"  // [!code ++]
-        data-repo="AULyPc/aulypc.github.io"  // [!code ++]
-        data-repo-id="xxxxxxxxx"  // [!code ++]
-        data-category="Announcements"  // [!code ++]
-        data-category-id="xxxxxxxxxxxx"  // [!code ++]
-        data-mapping="pathname"  // [!code ++]
-        data-strict="0"  // [!code ++]
-        data-reactions-enabled="1"  // [!code ++]
-        data-emit-metadata="0"  // [!code ++]
-        data-input-position="top"  // [!code ++]
-        data-theme="preferred_color_scheme"  // [!code ++]
-        data-lang="zh-CN"  // [!code ++]
-        crossorigin="anonymous"  // [!code ++]
-        async>  // [!code ++]
-</script>  // [!code ++]
+<script src="https://giscus.app/client.js"
+        data-repo="AULyPc/aulypc.github.io"
+        data-repo-id="xxxxxxxxx"
+        data-category="Announcements"
+        data-category-id="xxxxxxxxxxxx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
 
 </MainGridLayout>
 ```
@@ -120,27 +127,27 @@ series: 博客改造
 > ### 文章页面
 > 找到 ```src\pages\posts\[...slug].astro``` 文件  
 > 在 ```</MainGridLayout>``` 行上方添加即可  
-> ```js
+> ```js title="src\pages\posts\[...slug].astro" ins={6-20}
 >                 <Icon name="material-symbols:chevron-right-rounded" class="text-[2rem] text-[var(--primary)]" />
 >             </div>}
 >         </a>
 >     </div>
 > 
-> <script src="https://giscus.app/client.js"  // [!code ++]
->     data-repo="AULyPc/aulypc.github.io"  // [!code ++]
->     data-repo-id="xxxxxxxxxxx"  // [!code ++]
->     data-category="Announcements"  // [!code ++]
->     data-category-id="xxxxxxxxxxxxx"  // [!code ++]
->     data-mapping="pathname"  // [!code ++]
->     data-strict="0"  // [!code ++]
->     data-reactions-enabled="1"  // [!code ++]
->     data-emit-metadata="0"  // [!code ++]
->     data-input-position="top"  // [!code ++]
->     data-theme="preferred_color_scheme"  // [!code ++]
->     data-lang="zh-CN"  // [!code ++]
->     crossorigin="anonymous"  // [!code ++]
->     async>  // [!code ++]
-> </script>  // [!code ++]
+> <script src="https://giscus.app/client.js"
+>     data-repo="AULyPc/aulypc.github.io"
+>     data-repo-id="xxxxxxxxxxx"
+>     data-category="Announcements"
+>     data-category-id="xxxxxxxxxxxxx"
+>     data-mapping="pathname"
+>     data-strict="0"
+>     data-reactions-enabled="1"
+>     data-emit-metadata="0"
+>     data-input-position="top"
+>     data-theme="preferred_color_scheme"
+>     data-lang="zh-CN"
+>     crossorigin="anonymous"
+>     async>
+> </script>
 > 
 > </MainGridLayout>
 > 
