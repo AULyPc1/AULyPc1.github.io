@@ -37,4 +37,7 @@ export const en: Translation = {
 	[Key.license]: "License",
 	[Key.friends]: "Friends",
 	[Key.series]: "Series",
+
+	[Key.gallery]: "Photos",
+	[Key.blogs]: "Blogs",
 };

@@ -1,0 +1,42 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+
+import { getEntry } from "astro:content";
+import { ARTWORK, siteConfig } from "@/config";
+import HomeBlogs from "@components/HomeBlogs.astro";
+import HomeGallery from "@components/HomeGallery.astro";
+import ImageWrapper from "@components/misc/ImageWrapper.astro";
+import Markdown from "@components/misc/Markdown.astro";
+import { getSortedPosts } from "@utils/content-utils";
+const homePost = await getEntry("spec", "home");
+
+const { Content } = await homePost.render();
+
+let Arts = await getSortedPosts();
+Arts = Arts.filter(
+	(post) => post.data.category && ARTWORK.includes(post.data.category),
+).slice(0, 3);
+
+let Blogs = await getSortedPosts();
+Blogs = Blogs.filter(
+	(post) =>
+		(post.data.category && !ARTWORK.includes(post.data.category)) ||
+		!post.data.category,
+).slice(0, 3);
+---
+
+<MainGridLayout>
+    <div class="w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 pb-6 relative w-full mb-4">
+            <ImageWrapper alt="Banner image of the blog" class:list={["mb-4"]}
+					  src={siteConfig.banner.src}
+			>
+			</ImageWrapper>
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+        </div>
+        <HomeGallery page={Arts}></HomeGallery>
+        <HomeBlogs page={Blogs}></HomeBlogs>
+    </div>
+</MainGridLayout>

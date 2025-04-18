@@ -37,4 +37,7 @@ export const ja: Translation = {
 	[Key.license]: "ライセンス",
 	[Key.series]: "シリーズ", // 系列
 	[Key.friends]: "友達", // 友链
+
+	[Key.gallery]: "ギャラリー",
+	[Key.blogs]: "ブログ",
 };

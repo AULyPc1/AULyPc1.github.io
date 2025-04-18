@@ -8,7 +8,7 @@
 > 
 > ```
 > title: 'AULyPcのBlog',
-> imgurl: 'https://blog.aulypc0x0.online/favicon/favicon_amiya.webp',
+> imgurl: 'https://timeline.aulypc0x0.online/favicon/favicon_amiya.webp',
 > desc: '今日も生きててえらい ☁',
-> siteurl: 'https://blog.aulypc0x0.online',
+> siteurl: 'https://timeline.aulypc0x0.online',
 > ```

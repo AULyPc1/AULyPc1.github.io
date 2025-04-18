@@ -34,6 +34,8 @@ enum I18nKey {
 	license = "license",
 	friends = "friends" /*友链 */,
 	series = "series" /*系列 */,
+	gallery = "gallery",
+	blogs = "blogs",
 }
 
 export default I18nKey;

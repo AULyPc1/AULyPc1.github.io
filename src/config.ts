@@ -6,6 +6,8 @@ import type {
 } from "./types/config";
 import { LinkPreset } from "./types/config";
 
+export const ARTWORK = ["Photos"];
+
 export const siteConfig: SiteConfig = {
 	title: "AULyPc",
 	subtitle: "Blog",
@@ -15,8 +17,8 @@ export const siteConfig: SiteConfig = {
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
-		enable: true,
-		src: "assets/images/banner_star.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		enable: false,
+		src: "assets/images/banner.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
@@ -41,14 +43,16 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
+		LinkPreset.Blogs,
 		LinkPreset.Archive,
+		LinkPreset.Gallery,
 		LinkPreset.About,
 		LinkPreset.Friends,
-		{
-			name: "GitHub",
-			url: "https://github.com/AULyPc", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		//	{
+		//		name: "GitHub",
+		//		url: "https://github.com/AULyPc", // Internal links should not include the base path, as it is automatically added
+		//		external: true, // Show an external link icon and will open in a new tab
+		//	},
 	],
 };
 
