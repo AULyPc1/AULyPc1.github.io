@@ -25,5 +25,5 @@ const len = page.data.length;
 
 <MainGridLayout title={i18n(I18nKey.gallery)} description={i18n(I18nKey.gallery)}>
     <GalleryPage page={page}></GalleryPage>
-    <Pagination class="mx-auto onload-animation" page={page} style=`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`></Pagination>
+    <Pagination class="mx-auto onload-animation" page={page} base="/gallery" style={`animation-delay: calc(var(--content-delay) + ${(len) * 50}ms)`}></Pagination>
 </MainGridLayout>

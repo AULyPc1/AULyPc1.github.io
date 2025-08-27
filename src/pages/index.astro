@@ -15,14 +15,14 @@ const { Content } = await homePost.render();
 let Arts = await getSortedPosts();
 Arts = Arts.filter(
 	(post) => post.data.category && ARTWORK.includes(post.data.category),
-).slice(0, 3);
+).slice(0, 8); /*3改成6即可把摄影格子增加 */
 
 let Blogs = await getSortedPosts();
 Blogs = Blogs.filter(
 	(post) =>
 		(post.data.category && !ARTWORK.includes(post.data.category)) ||
 		!post.data.category,
-).slice(0, 3);
+).slice(0, 4); /*3改成6即可把博客格子增加 */
 ---
 
 <MainGridLayout>

@@ -1,29 +1,49 @@
 ---
-import { getPostUrlBySlug } from '@utils/url-utils'
-import HomeGalleryItem from './HomeGalleryItem.astro'
-import { Icon } from 'astro-icon/components'
-import { i18n } from '@i18n/translation'
-import I18nKey from '@i18n/i18nKey'
+import I18nKey from "@i18n/i18nKey";
+import { i18n } from "@i18n/translation";
+import { getPostUrlBySlug } from "@utils/url-utils";
+import { Icon } from "astro-icon/components";
+import HomeGalleryItem from "./HomeGalleryItem.astro";
 
-const { page } = Astro.props
+const { page } = Astro.props;
 
 // biome-ignore lint/style/useConst: <explanation>
-let delay = 0
-const interval = 50
+let delay = 0;
+const interval = 50;
 ---
 <div class="card-base transition rounded-[var(--radius-large)] mb-4 pb-6">
-    <div class="pl-6 md:pl-9 pr-6 md:pr-2 pt-6 md:pt-7 relative">
-    <a href="/gallery/"
-           class="transition w-full block font-bold mb-3 text-3xl text-90
+    <div class="pl-6 md:pl-9 pr-6 md:pr-2 pt-6 md:pt-7 relative flex justify-between items-center">
+  <a href="/gallery/"
+     class="transition w-full block font-bold mb-3 text-3xl text-90
         hover:text-[var(--primary)] dark:hover:text-[var(--primary)]
         active:text-[var(--title-active)] dark:active:text-[var(--title-active)]
         before:w-1 before:h-5 before:rounded-md before:bg-[var(--primary)]
         before:absolute before:top-[35px] before:left-[18px] before:hidden md:before:block
         ">
-        {i18n(I18nKey.gallery)}<Icon class="inline text-[var(--primary)] md:hidden -translate-y-[0.15rem]" name="material-symbols:chevron-right-rounded" size={28} ></Icon>
-        </a>
-    </div>
-<div class="transition grid grid-cols-3 gap-4 rounded-[var(--radius-large)] bg-[var(--card-bg)] px-4 bg-transparent">
+    {i18n(I18nKey.gallery)}
+    <Icon class="inline text-[var(--primary)] md:hidden -translate-y-[0.15rem]" name="material-symbols:chevron-right-rounded" size={28} />
+  </a>
+  <a href="/gallery/"
+    class="flex items-center gap-1.5 px-4 py-2.5 rounded-lg
+      min-w-36
+      text-black/75 dark:text-white/75
+      bg-[var(--enter-btn-bg)]
+      hover:bg-[var(--enter-btn-bg-hover)]
+      hover:text-[var(--primary)]
+      active:bg-[var(--enter-btn-bg-active)]
+      active:scale-95
+      transition-all group mr-4">
+    <span class="text-sm whitespace-nowrap">查看全部摄影</span>
+    <svg width="1em" height="1em" viewBox="0 0 24 24"
+      class="text-xl text-[var(--primary)] transition-transform group-hover:translate-x-0.5"
+      fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="currentColor" d="M12.6 12L8.7 8.1q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l4.6 4.6q.15.15.213.325t.062.375t-.062.375t-.213.325l-4.6 4.6q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7z"/>
+    </svg>
+  </a>
+</div>
+
+<!--摄影格子每行数量调整 grid-cols-4 -->
+<div class="transition grid grid-cols-4 gap-4 rounded-[var(--radius-large)] bg-[var(--card-bg)] px-4 bg-transparent">
     {page.map((entry: { data: { draft: boolean; title: string; tags: string[]; category: string; published: Date; image: string; description: string; }; slug: string; }) => {
         return (
             <HomeGalleryItem

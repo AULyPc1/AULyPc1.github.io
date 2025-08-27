@@ -18,7 +18,7 @@
 > 社畜，in 南京  
 > 在网上冲浪一般用``AULyPc``这个CN(code name)  
 > 名字的由来是由三个天文单位组成的  
-> 分别是``AU``[Astronomical unit,曾以地球与太阳的平均距离定义]；``Ly``[light year,光年]；``Pc``[parsec,秒差距]  
+> 分别是``AU`` :spoiler[Astronomical unit,曾以地球与太阳的平均距离定义]；``Ly`` :spoiler[light year,光年]；``Pc`` :spoiler[parsec,秒差距]  
 > 起初还用下划线连接``AU_Ly_Pc``，但后来为了方便有时会去掉下划线  
 > 
 > 但要说到用的时间最久的名字的话  
@@ -47,13 +47,13 @@
 <span  style="color:#ee7800; "> Risa Yuzuki </span>/
 <span  style="color:#a779a0; "> 乃花こより </span>/
 花たん/咲良ゆの/*菜乃/yuiko/......  
-> 插画/绘画? 目前比较喜欢的画师是[Hiten老师](https://twitter.com/HitenKei)和[U35老师](https://twitter.com/umiko35)  
+> 插画/绘画? 目前比较喜欢的画师是[Hiten老师](https://x.com/HitenKei/)和[ゆんみ老师](https://x.com/yunmi_0527/)  
 > 二游，接触过很多二游，成分很杂，但很少加群混圈  
-> minecraft重度生电玩家  
-> 音游，pjsk/bangdream，也偶尔打maimai，想入坑sdvx但一直没机会  
+> minecraft生电玩家  
+> 音游，pjsk/bangdream，也偶尔打maimai，想入坑sdvx但一直没机会(5月份在日本入坑了😇)  
 > 玩过几年的osu，但后来因种种原因退坑了  
 > 24年底买了VR设备，沉迷vrchat和beat saber(节奏光剑)  
-> 开始摄影了，数码和胶片都在进行中  
+> 开始玩摄影了，数码和胶片都在进行中  
 
 > ### 喜欢的角色
 > 明日方舟--阿米娅🐰  
@@ -62,8 +62,8 @@
 > 学マス--葛城リーリヤ⚜️  
 
 > ### 一些主要时间点
-> 2024-03 首次搭建博客，部署在GitHub上，发布第一篇文章[La prière](blog.aulypc0x0.online/La_priere)  
-> 2024-xx-xx ~~时间点丢失~~ 在不断折腾主题、图床中  
+> 2024-03 首次搭建博客，部署在GitHub上，发布第一篇文章  
+> ~~2024-xx-xx 时间点丢失~~ 在不断折腾主题、图床中  
 > 2024-07-12 在硅云注册aulypc.space域名，有效期1年  
 > 2024-07-23 在腾讯云注册aulypc0x0.online域名，有效期10年  
 > 2024-07-26 购入腾讯云轻量型服务器，为期3个月；并申请ICP备案  
@@ -74,6 +74,7 @@
 > 2024-12-17 更改站点字体  
 > 2025-04-11 时隔半年多，更新fuwari主题  
 > 2025-04-17 添加博客主页、摄影等页面(如效果不佳后续可能会放弃)  
+> 2025-08-25 加入开往Travelling  
 
 > ### 有关图片视频等资源的来源
 > - 如有侵权，请通过邮件按钮联系我进行删除
