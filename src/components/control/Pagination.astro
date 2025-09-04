@@ -6,9 +6,11 @@ interface Props {
 	page: Page;
 	class?: string;
 	style?: string;
+	base?: string; // 新增
 }
 
 const { page, style } = Astro.props;
+const base = Astro.props.base || "/blog"; // 默认/blog
 
 const HIDDEN = -1;
 
@@ -46,8 +48,8 @@ if (r < page.lastPage) pages.push(page.lastPage);
 
 const getPageUrl = (p: number) => {
 	// 确保生成的 URL 与 blog/[...page].astro 的路由结构一致
-	if (p === 1) return "/blog/";
-	return `/blog/${p}/`;
+	if (p === 1) return `${base}/`;
+	return `${base}/${p}/`;
 };
 ---
 

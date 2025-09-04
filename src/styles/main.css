@@ -126,6 +126,15 @@
     .copy-btn.success .success-icon {
         @apply opacity-100
     }
+    .banner {
+        @apply rounded-t-[var(--radius-large)] mt-6 mb-4 overflow-hidden w-full;
+        /* 顶部圆角、顶部间距、底部间距、宽度自适应 */
+    }
+
+    .banner img {
+        @apply w-full rounded-t-[inherit] block;
+        /* 图片宽度100%，顶部圆角继承，消除下方空隙 */
+    }
 }
 
 .custom-md img, #post-cover img {
@@ -156,15 +165,57 @@
     height: var(--collapsedHeight);
 }
 
-
-
+/* 👇spoiler 文字黑幕，悬停显示 */
 .custom-md spoiler {
   @apply bg-[var(--codeblock-bg)] hover:bg-transparent px-1 py-0.5 overflow-hidden rounded-md transition-all duration-150;
-
-  &:not(:hover) {
-    color: var(--codeblock-bg);
-    * {
-        color: var(--codeblock-bg);
-    }
-  }
+  position: relative;
+  color: transparent !important;
+  text-shadow: none;
 }
+
+.custom-md spoiler::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--codeblock-bg);
+  border-radius: inherit;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  z-index: 1;
+}
+
+.custom-md spoiler:hover {
+  color: inherit !important;
+  text-shadow: none;
+  background: transparent;
+}
+
+.custom-md spoiler:hover::after {
+  opacity: 0;
+}
+/* 👆spoiler 文字黑幕，悬停显示 */
+
+
+/* 👇链接卡片样式二 */
+  .lnk {
+    background: var(--license-block-bg);
+    margin: .5rem 0;
+    padding: 1.1rem 1.5rem;
+    border-radius: var(--radius-large);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+    cursor: pointer;
+  }
+
+  .lnk:hover {
+    background-color: var(--btn-plain-bg-hover);
+    transition: background-color .15s cubic-bezier(.4,0,.2,1);
+  }
+
+  .lnk:active {
+    scale: .98;
+    background-color: var(--btn-plain-bg-active);
+    transition: background-color .15s cubic-bezier(.4,0,.2,1), scale .15s cubic-bezier(.4,0,.2,1);
+  }
+/* 👆链接卡片样式二 */
