@@ -28,7 +28,7 @@ import expressiveCode from "astro-expressive-code";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://aulypc1.github.io/",
+	site: "https://timeline.aulypc0x0.online/",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
