@@ -8,8 +8,15 @@
 > 注意：此站点为备用站点，请申请友链时添加下方主站点信息  
 > 您的站点信息我将在主、备站点同步进行添加更新  
 ```
-title: 'AULyPcのBlog',
-imgurl: 'https://blog.aulypc0x0.online/favicon/favicon_amiya.webp',
-desc: '今日も生きててえらい ☁',
-siteurl: 'https://blog.aulypc0x0.online',
+title: "AULyPcのBlog",
+imgurl: "https://blog.aulypc0x0.online/favicon/favicon_amiya.webp",
+desc: "今日も生きててえらい ☁",
+siteurl: "https://blog.aulypc0x0.online",
 ```
+
+> # 失联站点
+> 若您的站点信息有变动，请留言或者联系我进行更新  
+> 
+> [Kay's Blog](https://blog.kayxue.xyz/)（域名过期）  
+> [咸鱼小窝](https://qqquq.com)（站点跳转不正确）  
+> 
