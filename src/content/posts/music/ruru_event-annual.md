@@ -1,7 +1,7 @@
 ---
 title: るる活动年鉴
 published: 2024-08-15
-updated: 2025-09-19
+updated: 2026-03-07
 description: "对同人歌手るる，粉丝向的活动整理记录"
 image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/music/prima_littera.webp"
 tags: [同人音乐, るる]
@@ -446,6 +446,93 @@ ruru的形象由[らいす](https://x.com/next3146)老师进行设计
 
 # 合作作品 
 ## 2025年<!-- 合作作品 2025-->
+
+### 崩壊の美学 —— Ariabl'eyeS -osu!China LAN 2025-<!-- 2025.11.17 -->
+<div class="table-wrapper" style="width:100%;overflow:visible;">
+<style>
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:"LXGW WenKai Screen" Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:5px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:"LXGW WenKai Screen" Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
+.tg .tg-81ec{background-color:#ffffff;border-color:#c0c0c0;text-align:center;vertical-align:top}
+.tg .tg-ruru{background-color:#ffffff;border-color:#c0c0c0;color:#e597b2;text-align:center;vertical-align:top}
+.tg .tg-4ipx{background-color:#ffffff;border-color:#c0c0c0;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-515r{background-color:#ffffff;border-color:#c0c0c0;font-size:100%;text-align:center;vertical-align:top}
+.tg img {max-width:100%;height:auto;display:block;margin:auto;}
+/* 让表格缩放时居中 */
+.scale-table {
+  margin: 0 auto;
+  display: block;
+}
+</style>
+<table class="tg scale-table" style="table-layout: fixed; width: 800px"><colgroup>
+<col style="width: 127px">
+<col style="width: 64px">
+<col style="width: 50px">
+<col style="width: 108px">
+<col style="width: 65px">
+<col style="width: 142px">
+<col style="width: 244px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-4ipx" colspan="5">崩壊の美学</th> <!-- 专辑名称-->
+    <th class="tg-81ec" colspan="2">Ariabl'eyeS</th> <!-- 社团/创作者-->
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-81ec" colspan="5" rowspan="12"><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/music/AriableyeS-崩壊の美学.webp" data-tilt data-tilt-max="5" alt="Image" width="400" height="379"></td>
+    <td class="tg-81ec">CD编号</td>
+    <td class="tg-81ec">无</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">日期</td>
+    <td class="tg-81ec">2025-11-17 </td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">价格</td>
+    <td class="tg-81ec">无</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">Youtube</td>
+    <td class="tg-81ec">https://www.youtube.com/watch?v=1niNWsor54A</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec" colspan="2">简介 / About</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec" colspan="2" rowspan="3">Ariabl'eyeS为<br>osu!China LAN 2025<br>提供的新曲</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-81ec" colspan="2">Credit / Staff</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">Produced</td>
+    <td class="tg-81ec">リゼ</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">Lyrics ＆ Compose</td>
+    <td class="tg-81ec">リゼ</td>
+  </tr>
+  <tr>
+    <td class="tg-81ec">Vocal</td>
+    <td class="tg-81ec">Ruru</td>
+  </tr>
+  <tr>
+    <td class="tg-515r" colspan="7">曲目 / Tracklist</td>
+  </tr>
+  <tr>
+    <td class="tg-ruru">Tr.1</td>
+    <td class="tg-ruru" colspan="4">崩壊の美学</td>
+    <td class="tg-ruru" colspan="2">Vocal : Ruru</td>
+  </tr>
+</tbody></table>
+</div>
 
 ### 双星の約束 - recollection of stars - —— ろいたloitad 4th EP<!-- 2025.10.26 -->
 <div class="table-wrapper" style="width:100%;overflow:visible;">
@@ -3728,7 +3815,130 @@ ruru的形象由[らいす](https://x.com/next3146)老师进行设计
 包含但不限于原创曲、翻唱、个人、合作、XFD等  
 :::
 
+## 2026年<!-- 油管自投稿 2025-->
+
+<!--〖 MV 〗 新釈｢カレンダーには花言葉｣ 2026.03.07 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=hhzq8u_UpZw" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">新釈｢カレンダーには花言葉｣</div>
+      <div class="link-card__subtitle">投稿日期:2026年3月7日</div>
+      <div class="link-card__description">手を振った君へ駆け寄り抱きしめるんだ</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/カレンダーには花言葉.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
+<!--〖 二十九通目 〗 忘れものセンターにまたね！ / covered by るる 2026.02.22 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=0LJZ_MhvWr8" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">〖 二十九通目 〗 忘れものセンターにまたね！ / covered by るる</div>
+      <div class="link-card__subtitle">投稿日期:2026年2月22日</div>
+      <div class="link-card__description"></div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/29.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
+<!--〖 MV 〗 トワ・モナムール 2026.02.08 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=4xsOTAfpr3g" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">トワ・モナムール</div>
+      <div class="link-card__subtitle">投稿日期:2026年2月8日</div>
+      <div class="link-card__description">『等しく愛すること』<br>これほど美しいものなどない</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/トワ・モナムール.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
+<!--〖 二十八通目 〗 好きすぎて滅！ 2026.01.18 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=vEulUGLrcls" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">〖 二十八通目 〗 好きすぎて滅！ / covered by るる</div>
+      <div class="link-card__subtitle">投稿日期:2026年1月18日</div>
+      <div class="link-card__description">※一部セリフの言い回しを変えております。</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/28.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
+
 ## 2025年<!-- 油管自投稿 2025-->
+
+<!--〖 MV 〗 新釈｢メディカルルセンターへようこそ｣ 2025.12.10 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=tqfY_84mZBQ" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">新釈｢メディカルルセンターへようこそ｣</div>
+      <div class="link-card__subtitle">投稿日期:2025年12月10日</div>
+      <div class="link-card__description">キミと世界のすれ違い<br>曖昧にできるお薬です</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/メディカルルセンターへようこそ.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
+<!--〖 二十七通目 〗 宴の皿 2025.11.18 -->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=2-dyzaZQukw" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">〖 二十七通目 〗 宴の皿 / covered by るる</div>
+      <div class="link-card__subtitle">投稿日期:2025年11月18日</div>
+      <div class="link-card__description">どうか聞かせて本当の想いを…！</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.webp">
+          <span class="link-card__domain-name">るるの郵便屋さん</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/27.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
 
 <!--エル・タンゴ・エゴイスタ / covered by るる＆つぐ 2025.10.31 -->
 <div class="link-card__container">
@@ -4567,7 +4777,49 @@ ruru的形象由[らいす](https://x.com/next3146)老师进行设计
 例如つぐ、月乃、薄明生徒会等账号下的合作视频投稿、直播等  
 :::
 
+## 2026年<!-- 油管其他投稿 2025-->
+
+<!--〖 藤墅。&るる 〗 ちょうだい 2026.02.14-->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=L4ZE7Nxvu8s" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">【MV】ちょうだい (CV:るる)｜自創作アニメ『ミスリアの花園』 - Official Video</div>
+      <div class="link-card__subtitle">投稿日期:2026年2月14日</div>
+      <div class="link-card__description">この妄想は少女の天国なの</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/藤墅。_icon.webp">
+          <span class="link-card__domain-name">藤墅。</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/ちょうだい.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
+
 ## 2025年<!-- 油管其他投稿 2025-->
+
+<!--〖 Mono.&るる 〗 物語たる迄 2025.11.29-->
+<div class="link-card__container">
+  <a href="https://www.youtube.com/watch?v=i1hQyZ2Luto" class="link-card" target="_blank">
+    <div class="link-card__info">
+      <div class="link-card__title">Mono. feat.るる - 物語たる迄</div>
+      <div class="link-card__subtitle">投稿日期:2025年11月29日</div>
+      <div class="link-card__description">#FEATコンテスト2025参加曲</div>
+      <div class="link-card__metadata">
+        <div class="link-card__domain">
+          <img alt="favicon" class="link-card__favicon" src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/Mono._icon.webp">
+          <span class="link-card__domain-name">Mono.</span>
+        </div>
+      </div>
+    </div>
+    <div class="link-card__thumbnail">
+      <Image src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/youtube/Mono.feat.るる-物語たる迄.webp" alt="thumbnail" class="link-card__image"/>
+    </div>
+  </a>
+</div>
 
 <!--〖 薄明生徒会 〗 ３人寄ればうぉんちゅーの試練 2025.11.08-->
 <div class="link-card__container">
