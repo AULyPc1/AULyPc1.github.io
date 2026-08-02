@@ -17,6 +17,7 @@ siteurl: "https://blog.aulypc0x0.online",
 > # 失联站点
 > 若您的站点信息有变动，请留言或者联系我进行更新  
 > 
-> [Kay's Blog](https://blog.kayxue.xyz/)（域名过期）  
 > [咸鱼小窝](https://qqquq.com)（站点跳转不正确）  
+> [LYEy_isine个人博客](https://caiyifeng.top/)  
+> [JIPA233の小窝](https://imjipa.top/)  
 > 
