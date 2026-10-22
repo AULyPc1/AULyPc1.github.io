@@ -2,7 +2,7 @@
 title: Symholic 12th CD 『METEOR』
 published: 2024-03-29
 description: "『セカイ』ってこんなに  『キレイ』だったんだね"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/meteor/2.webp"
+image: "https://pic.aulypc0x0.online/data/meteor/2.webp"
 tags: [同人音乐, Symholic]
 category: 同人音乐
 draft: false
@@ -102,4 +102,4 @@ series: Symholic
 > 但是今年24年的春M3，没出后续的新专，等不及要听后续了  
 > 以上  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/meteor/1.webp)
+![](https://pic.aulypc0x0.online/data/meteor/1.webp)

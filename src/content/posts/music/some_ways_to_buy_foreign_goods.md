@@ -2,7 +2,7 @@
 title: 如何购买实体专辑及周边谷子
 published: 2024-12-09
 description: '简单记录下自己最近几年海购的经验'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/cd_1.webp'
+image: 'https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/cd_1.webp'
 tags: [同人音乐, 海购]
 category: 同人音乐
 draft: false
@@ -46,7 +46,7 @@ series: 同人音乐相关
 ## 萌购/任你购/RNG
 博主第一次海购是在2020年  
 当时玩完了key社的『summer pockets』，很是感动，久久不能释怀  
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/list.webp" border=0 width=500 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/list.webp" border=0 width=500 height=""></td>
 
 在手机商店里下载了名叫“萌购”的APP  
 老版APP叫萌购，新版叫任你购，两者没区别  
@@ -90,13 +90,13 @@ https://tamachan-music.booth.pm/items/6163190
 RNG在检测到booth链接后也会贴心的提示你  
 ```不同店铺的商品请分开下单```，为的也是方便收取日本国内运费  
 :::
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tip_1.webp" border=0 width=300 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tip_1.webp" border=0 width=300 height=""></td>
 
 ### 3、然后进入到填单页面  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tamachan-music_booth.webp" border=0 width=330 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/order_list.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tamachan-music_booth.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/order_list.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 以木下珠子的2nd实体专辑CD为例  
@@ -125,7 +125,7 @@ RNG在检测到booth链接后也会贴心的提示你
 ```注意：如果选择不需要，RNG完成下单后，您将无法申请消单退款```  
 :::
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tip_2.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tip_2.webp" border=0 width=330 height=""></td>
 
 ### 4、付款  
 > 有优惠券的记得用上，能省一点省一点  
@@ -147,7 +147,7 @@ RNG仓库可以免费存储90天商品
 申请一次的话，可能要等5-10个工作日才能收到邮件  
 :::
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/photo.webp" border=0 width=500 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/photo.webp" border=0 width=500 height=""></td>
 
   
 ### 7、发货，选择物流方式，支付国际运费  
@@ -174,7 +174,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 (二)总值两千元人民币以内的寄递物品，或者总值超过两千元人民币的不可分割单件寄递物品。
 ```
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/1000.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/1000.webp" border=0 width=700 height=""></td>
 
 :::tip
 包裹重量一般，走EMS和AIR  
@@ -200,10 +200,10 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > ```F12```，我只能说这么多了  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/shenbao.webp" border=0 width=330 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/ems_shenbao.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/shenbao.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/ems_shenbao.webp" border=0 width=330 height=""></td>
 </tr></table>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/rng_web-list.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/rng_web-list.webp" border=0 width=700 height=""></td>
 
 :::tip
 如果收到的是缴税通知  
@@ -246,7 +246,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 等于博主就用过两次，另一次也是买了点专辑，和朋友拼团回国  
 > [破产公告链接](https://www.masadora-trustee.com/announce/20240227_01.pdf)
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/pochangonggao.webp" border=0 width=500 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/pochangonggao.webp" border=0 width=500 height=""></td>
 
 ---
 
@@ -259,10 +259,10 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 在煤炉上搜索到你想要的商品后  
 > 复制其商品网址链接  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/ruru_meilu.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/ruru_meilu.webp" border=0 width=700 height=""></td>
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/wameiji_ruru.webp" border=0 width=330 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/wameiji_list.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/wameiji_ruru.webp" border=0 width=330 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/wameiji_list.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 ### 2、链接扔到挖煤姬内
@@ -291,7 +291,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 都是注册后给你一个```专属地址```  
 > 购物时地址填写你这个专属地址就可以了  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tensojapan.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tensojapan.webp" border=0 width=700 height=""></td>
 
 :::tip
 采用第三方仓库的方式，即仓库负责货物的收发  
@@ -308,7 +308,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 首先需要注册该网站的会员  
 > 电话、邮编、地址按照转送japan提供的专属地址填写  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tano_4.webp" border=0 width=500 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tano_4.webp" border=0 width=500 height=""></td>
 
 ### 2、购物，完善信息
 > 把商品放入购物车后就可以去结账付款了  
@@ -321,7 +321,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 而JCB,万事达卡的办理，在国内信用卡居多  
 > 这里不做过多介绍  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tano_5.webp" border=0 width=450 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tano_5.webp" border=0 width=450 height=""></td>
 
 
 ### 4、等待送达第三方仓库
@@ -332,7 +332,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 当然，期间也是要支付各种手续费的  
 > [具体费用组成](https://tensojapan.jshoppers.com/zh-cn/guide/fees)可在网站中查到  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/tensojapan_jihuo.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/tensojapan_jihuo.webp" border=0 width=700 height=""></td>
 
 ---
 
@@ -341,7 +341,7 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 
 ### 1、将商品加入到购物车
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/booth_1.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/booth_1.webp" border=0 width=700 height=""></td>
 
 :::warning
 注意要点```ship to japan```这个  
@@ -349,12 +349,12 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 
 ### 2、确认订单
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/booth_2.webp" border=0 width=700 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/booth_2.webp" border=0 width=700 height=""></td>
 
 ### 3、选择支付方式进行支付
 > 选择适合你的支付方式进行支付即可  
 
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/booth_zhifu.webp" border=0 width=550 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/booth_zhifu.webp" border=0 width=550 height=""></td>
 
 ### 4、等待到达第三方仓库
 ### 5、第三方仓库集货发送
@@ -399,5 +399,5 @@ RNG目前不能添加商品的种类，如果包裹内有多种商品的话很�
 > 要是遇到麻烦，认识我的群友可以直接去群里找我  
 > 不认识我的直接评论或者给我发邮件  
 > 本文没写到的可以去参考群友饺子写的这篇  
-> [如何使用代购或转运购买专辑](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/some_ways_to_buy_foreign_goods/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E4%BB%A3%E8%B4%AD%E6%88%96%E8%BD%AC%E8%BF%90%E8%B4%AD%E4%B9%B0%E4%B8%93%E8%BE%91.pdf)  
+> [如何使用代购或转运购买专辑](https://pic.aulypc0x0.online/data/some_ways_to_buy_foreign_goods/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E4%BB%A3%E8%B4%AD%E6%88%96%E8%BD%AC%E8%BF%90%E8%B4%AD%E4%B9%B0%E4%B8%93%E8%BE%91.pdf)  
 > 以上  

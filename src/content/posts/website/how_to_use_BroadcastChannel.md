@@ -2,7 +2,7 @@
 title: 使用BroadcastChannel和Telegram搭建简单的微博客
 published: 2025-01-14
 description: 'Turn your Telegram Channel into a MicroBlog.'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/homepage.webp'
+image: 'https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/homepage.webp'
 tags: [BroadcastChannel, 微博客]
 category: 网站
 draft: false
@@ -13,7 +13,7 @@ series: 博客改造
 ::github{repo="ccbikai/BroadcastChannel"}  
 
 下面👇是我的页面链接  
-~~[AULyPcの日常](https://timeline.aulypc0x0.online/)~~  
+~~AULyPcの日常~~  
 (电报频道被风控，后续部署显示异常，故取消该页面)  
   
 因为页面看起来更类似时间线排列的形式  
@@ -42,28 +42,28 @@ series: 博客改造
 
 环境变量的配置按需即可，但要注意``CHANNEL``必须配置  
 按照下图找到environment variables准备配置环境变量  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/env1.webp" border=0 width=650 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/env1.webp" border=0 width=650 height="">
 按照官方给出的环境变量模板，按需添加即可  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/env2.webp" border=0 width=650 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/env2.webp" border=0 width=650 height="">
 配置完成后进行重新部署  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/deployments.webp" border=0 width=650 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/deployments.webp" border=0 width=650 height="">
 部署成功后就可以直接访问vercel给出的链接了  
 如果有需求的话，也可以在vercel绑定自己的域名  
 域名的绑定可以在``setting-domains``中找到，具体怎么设置这里就不多赘述了  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/domains.webp" border=0 width=650 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/domains.webp" border=0 width=650 height="">
 
 配置部署完成后，当你在频道内发送消息后，几分钟？后就能在网页上查看到了  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/telegram1.webp" border=0 width=650 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/telegram1.webp" border=0 width=650 height="">
 但既然用上telegram了，不用点bot就说不过去了(  
 这里我用的是[AximoBot](https://t.me/AximoBot)以及[IFTTT](https://ifttt.com/explore)这两个bot  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/telegram-bot.webp" border=0 width=400 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/telegram-bot.webp" border=0 width=400 height="">
 AximoBot主要抓取Twitter推文数据以及一些RSS，缺点是抓取时间间隔有点长，好像是1小时吧  
 毕竟twitter的API限制，能免费用已经很不错了  
 IFTTT搭配[BotFather](https://telegram.me/BotFather)来使用  
 主要是一些应用与telegram之间的联系  
 比如youtube点赞视频后，推送到telegram频道内，进而可以从前面部署的网页中查看  
 还有比如spotify音乐、twitch直播等等  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/ifttt.webp" border=0 width=400 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/ifttt.webp" border=0 width=400 height="">
 当然，ifttt的抓取时间也比较长，大概半小时  
 而且每个账号只能使用两个关联，且有些还需要升级会员才行(比如twitter有关的功能)  
 可以多开几个账号来缓解数量限制的问题  
@@ -72,7 +72,7 @@ IFTTT搭配[BotFather](https://telegram.me/BotFather)来使用
 按官方部署后，页面中的时间是```xxx hours ago```的形式  
 这样的话不太方便我们计算发布的时间  
 故改为下图右侧的形式  
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_use_BroadcastChannel/time.webp" border=0 width=400 height="">
+<img src="https://pic.aulypc0x0.online/data/how_to_use_BroadcastChannel/time.webp" border=0 width=400 height="">
 在```src/components/item.astro```中进行修改  
 ```astro title="src/components/item.astro" del={2,11} ins={3,12}
 const datetime = dayjs(post.datetime).tz(timezone)

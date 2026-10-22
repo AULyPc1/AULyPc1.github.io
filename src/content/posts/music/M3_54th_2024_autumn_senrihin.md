@@ -2,7 +2,7 @@
 title: M3-54th(2024年秋)战利品
 published: 2024-11-13
 description: "2024秋M3买的CD到了!"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/ruru.webp"
+image: "https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/ruru.webp"
 tags: [同人音乐, M3-54th]
 category: 同人音乐
 draft: false
@@ -24,15 +24,15 @@ series: 同人音乐相关
 
 首先是本次委托群友朋友跑场贩的合照  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/cd_set_1.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/cd_set_2.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/cd_set_1.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/cd_set_2.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 ## A-11ab 優しさの配列
 > 『Kindness Prism』  
 > 我最早是通过藍月的那一首--『1人じゃない私』才得知这张专辑的  
 > 被这首歌积极向上的歌词、以及编曲所吸引  
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/Kindness_Prism.webp" border=0 width=600 height="" ></td>
+> <td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/Kindness_Prism.webp" border=0 width=600 height="" ></td>
 
 > 这张专辑前几年（[2020秋M3](https://yasasisa-kindness.tumblr.com/)）就有了  
 > 还有[数佳](https://x.com/nnmjny)老师画的色纸  
@@ -46,8 +46,8 @@ series: 同人音乐相关
 > 7naci老师本次的新专  
 > 7naci老师之前没有twitter账号，本次M3后特地的注册了账号[7naci](https://x.com/7naci)  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/7naci.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/7naci_m3.webp" border=0 width=360 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/7naci.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/7naci_m3.webp" border=0 width=360 height="" ></td>
 </tr></table>
 
 > 本次新专一共7首，其中6首都可以在7naci老师的[youtube](https://www.youtube.com/@7naci)听到完整版  
@@ -67,21 +67,21 @@ series: 同人音乐相关
 > 时隔一年るる的新砖  
 > 算是我买CD以来第一次，一口气买那么多复数  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/ruru.webp" border=0 width=450 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/ruru_goods.webp" border=0 width=450 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/ruru.webp" border=0 width=450 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/ruru_goods.webp" border=0 width=450 height="" ></td>
 </tr></table>
 
 > 后续还发了自己听完的感想  
 > 看不懂左边的可以看右边提前撰写好的中文  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/houji1.webp" border=0 width=300 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/houji2.webp" border=0 width=380 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/houji1.webp" border=0 width=300 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/houji2.webp" border=0 width=380 height="" ></td>
 </tr></table>
 
 ## T-06ab 咲良ゆの / V-02a 結崎有理 /  T-10a 乃花こより
 ❤️💙💜
 三只小可爱🥰  
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/yuno&sflabo&koyori.webp" border=0 width=700 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/yuno&sflabo&koyori.webp" border=0 width=700 height="" ></td>
 
 > 这次终于顺利拿到yuno的签了，终于圆梦了  
 > 
@@ -96,8 +96,8 @@ series: 同人音乐相关
 
 ## V-08b risa yuzuki
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/risa.webp" border=0 width=360 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/risa_liuyan.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/risa.webp" border=0 width=360 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/risa_liuyan.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 > risa本次的新砖  
@@ -106,7 +106,7 @@ series: 同人音乐相关
 > 同时也有点愧疚，毕竟是替身去的现场😥  
 
 ## コ-31a awamizm / V-09b yuiko
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/awamizm&rest.webp" border=0 width=600 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/awamizm&rest.webp" border=0 width=600 height="" ></td>
 
 > 本次新发现的可爱姐姐  
 > 以及yuiko  
@@ -114,8 +114,8 @@ series: 同人音乐相关
 
 ## シ-35ab Symholic/こまつりな
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/STIGMA.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/s2eeeet♡obsession!!.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/STIGMA.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/s2eeeet♡obsession!!.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 > Symholic本次新砖『STIGMA』  
@@ -130,4 +130,4 @@ series: 同人音乐相关
 > 都是到哪里玩什么  
 > 这次难得出去一次，还是有空大致制定下计划吧  
 > 以上  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn_senrihin/Sakurane_Non.webp" border=0 width=300 height="" ></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn_senrihin/Sakurane_Non.webp" border=0 width=300 height="" ></td></center>

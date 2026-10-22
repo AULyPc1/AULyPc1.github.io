@@ -2,7 +2,7 @@
 title: FCM推送_后续
 published: 2024-07-20
 description: "结合上次的摸索，这次算是终于完结了"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/20240720202816.jpg"
+image: "https://pic.aulypc0x0.online/data/fcm/20240720202816.jpg"
 tags: [fcm]
 category: 网站
 draft: false
@@ -32,13 +32,13 @@ series: FCM推送
 > 因为担心模块之间相互冲突  
 > 这次就把其他涉及修改hosts的模块关闭了  
 > 只留下systemless-fcm-hosts这一个模块  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/20240720203150.jpg" border=0 width=300 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/fcm/20240720203150.jpg" border=0 width=300 height=""></td></center>
 
 > 重启手机后发现效果很好  
 > 截至撰写本文时已有4小时多没发生断连现象  
 > 及时手动更改clash节点或者更换wifi、关闭开启数据时  
 > fcm都能顺利的自行重连，及时出现err，也会在几秒内重连  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/fcm/20240720202816.jpg" border=0 width=500 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/fcm/20240720202816.jpg" border=0 width=500 height=""></td></center>
 
 > 先这样吧，后续这几天看看使用情况  
 > 以上~  

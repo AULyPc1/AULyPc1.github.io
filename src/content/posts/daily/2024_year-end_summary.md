@@ -2,7 +2,7 @@
 title: 2024年 年终总结
 published: 2024-12-27
 description: 'Byebye 2024'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_year-end_summary/amiya_birthday.webp'
+image: 'https://pic.aulypc0x0.online/data/2024_year-end_summary/amiya_birthday.webp'
 tags: [年终]
 category: 日常
 draft: false
@@ -18,7 +18,7 @@ series: 年终总结
 模板右上↗有来源，感谢  
 :::
   
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_year-end_summary/0.webp)  
+![](https://pic.aulypc0x0.online/data/2024_year-end_summary/0.webp)  
   
 > 1月，参加了risa yuzuki在上海开展的1st live  
 > 2月，和几位群友团建  
@@ -27,7 +27,7 @@ series: 年终总结
 > 5月，参加上海dizzylab电则市场，risa也来了  
 > 6月，春M3的碟到了；端午和群友玩了3天；免尾款的手办也到了  
   
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_year-end_summary/1.webp)  
+![](https://pic.aulypc0x0.online/data/2024_year-end_summary/1.webp)  
   
 > 7月，ruru的周边到了  
 > 8月，办理了护照；空洞一周目通关  

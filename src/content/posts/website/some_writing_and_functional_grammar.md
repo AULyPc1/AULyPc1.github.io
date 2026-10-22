@@ -1,13 +1,19 @@
 ---
 title: 一些写作和功能语法
 published: 2025-09-02
-description: '简单写个文章，免得写文章时经常使用语法，以及忘记都添加了什么东西'
-image: ''
+description: '简单写个文章，免得写文章时经常忘记语法，以及忘记都添加了什么东西'
+image: 'https://pic.aulypc0x0.online/data/2024_duanwu_Day2/kiss.webp'
 tags: [语法]
 category: 网站
 draft: false
 series: 博客改造
 ---
+
+:::note
+封面来源：《三角的距离无限趋近零》 第一卷 第三章  
+画师：Hiten
+:::
+
 
 # 基本markdown写作语法
 ## 文本样式
@@ -19,7 +25,7 @@ series: 博客改造
 <ins>文本下划线</ins>  
 文本<sup>上标</sup>  
 文本<sub>下标</sub>  
-`文本高亮/引用`
+`文本高亮/引用`  
 <font color="#1576abff">文字颜色</font>  
 <span style="color: #00faddff">文本颜色</span>  
 <font size=5>文字字号</font>  
@@ -63,18 +69,18 @@ fuwari中多张图片不能自动的以宫格形式组合
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000038.webp" width=260 height=""></td>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000037.webp" width=260 height=""></td>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000036.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000038.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000037.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000036.webp" width=260 height=""></td>
   </tr>
 </table>
 
 ```md
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000038.webp" width=260 height=""></td>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000037.webp" width=260 height=""></td>
-    <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000036.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000038.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000037.webp" width=260 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000036.webp" width=260 height=""></td>
   </tr>
 </table>
 ```
@@ -164,7 +170,7 @@ https://astro.build/
 可以直接使用下方代码编辑  
 
 <div class="link-card__container">
-  <a href="https://lit.link/en/aulypc/" class="link-card">
+  <a href="https://lit.link/en/aulypc/" class="link-card" target="_blank">
     <div class="link-card__info">
       <div class="link-card__title">AULyPc lit.link</div> <!-- 标题-->
       <div class="link-card__description">您好/nice to meet you/こんにちは、One link to tell your story.</div> <!-- 描述-->
@@ -183,7 +189,7 @@ https://astro.build/
 
 ```md
 <div class="link-card__container">
-  <a href="https://lit.link/en/aulypc/" class="link-card">
+  <a href="https://lit.link/en/aulypc/" class="link-card" target="_blank">
     <div class="link-card__info">
       <div class="link-card__title">AULyPc lit.link</div> <!-- 标题-->
       <div class="link-card__description">您好/nice to meet you/こんにちは、One link to tell your story.</div> <!-- 描述-->
@@ -225,22 +231,22 @@ https://astro.build/
 来源[pull 351](https://github.com/saicaca/fuwari/pull/351)  
  - 多图片多标题  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000038.webp "胶片漏光了")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000037.webp "富士山🗻下")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000038.webp "胶片漏光了")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000037.webp "富士山🗻下")
 
 ```md title=多图片多标题
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000038.webp "胶片漏光了")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000037.webp "富士山🗻下")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000038.webp "胶片漏光了")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000037.webp "富士山🗻下")
 ```
 
  - 多图片单标题  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000030.webp "[光] 与【影】")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000029.webp)
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000030.webp "[光] 与【影】")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000029.webp)
 
 ```md title=多图片单标题
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000030.webp "[光] 与【影】")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000029.webp)
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000030.webp "[光] 与【影】")
+![](https://pic.aulypc0x0.online/film/8_E100_135_E6/000029.webp)
 ```
 
 ## Expressive Code
@@ -259,15 +265,18 @@ https://astro.build/
 
 :::note
 该效果仅在电脑端生效  
+因为在许多M3特设网站上看到过这个效果  
+记得之前还在用fluid主题时就想添加了，但一直没成功  
+这次算是终于添加上了，虽然没有什么实际的用处...  
 :::
 
-<img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/film/8_E100_E6/000030.webp" data-tilt data-tilt-max="5" width="70%" title=""/>
+<img src="https://pic.aulypc0x0.online/film/8_E100_135_E6/000030.webp" data-tilt data-tilt-max="5" width="70%" title=""/>
 
 ```md
 <img src="your-image.webp"
      alt="图片"
      data-tilt
-     data-tilt-max="5"           <!-- 最大倾斜角度，默认15 -->
+     data-tilt-max="5"            <!-- 最大倾斜角度，默认15，默认情况下倾斜太大容易超出容器不美观 -->
      data-tilt-speed="400"        <!-- 动画速度，默认400ms -->
      data-tilt-perspective="1000" <!-- 透视距离，默认1000px -->
      data-tilt-scale="1.1"        <!-- 鼠标悬停时缩放，默认1 -->

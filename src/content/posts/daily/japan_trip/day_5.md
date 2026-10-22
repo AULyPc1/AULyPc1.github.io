@@ -2,7 +2,7 @@
 title: 日本之旅 Day 5
 published: 2025-05-01
 description: "为期15天的日本之旅"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1378.webp"
+image: "https://pic.aulypc0x0.online/data/japan_trip/day5_1/day5cover.webp"
 tags: [旅行]
 category: 日常
 draft: false
@@ -22,10 +22,10 @@ series: 日本之旅
 刚好在今天我入住的胶囊酒店旁边  
 于是在提前存好行李后，趁着上午天气较热，选择去bookoff逛一逛  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_125046.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_114922.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_105420.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_125213.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_125046.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_114922.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_105420.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_125213.webp)
 
 没想到一进bookoff的门后，出来就已经中午了  
 各种二手产品琳琅满目，看不过来  
@@ -39,10 +39,10 @@ series: 日本之旅
 在国内景区纪念币我一般看都不看的  
 但好不容出趟国，能做纪念的还是要买一个纪念的x  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_133019.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_133027.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_134333.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_170959.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_133019.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_133027.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_134333.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_170959.webp)
 
 随后就前往河口湖畔  
 个人感觉河口湖没什么可玩性，湖边的娱乐性设施和山中湖对比，很少  
@@ -51,59 +51,59 @@ series: 日本之旅
 
 湖畔风光  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1368.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1378.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1383.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1376.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1368.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1378.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1383.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1376.webp)
 
 沿岸所见  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1374.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1381.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1386.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1392.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1374.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1381.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1386.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1392.webp)
 
 今天湖边的风还挺大的  
 遗憾的是富士山山顶有云，看不到富士山的全貌  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_093357.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_093357.webp)
 
 沿岸的一些花花草草  
 还有逆光拍摄的玻璃渣  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1391.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1393.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1395.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1398.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1391.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1393.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1395.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1398.webp)
 
 绕了半圈来到河口湖的对面  
 在这边就能看到富士山了  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1394.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1403.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1408.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1414.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1394.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1403.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1408.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1414.webp)
 
 在路边看到的邮筒  
 应该是装饰品吧  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1415.webp "邮筒，联想起ruru了")
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1415.webp "邮筒，联想起ruru了")
 
 路过一座神社，进去后发现已经很久没人来这里了  
 旁边有好多废弃的建筑  
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1416.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1417.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1418.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1416.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1417.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1418.webp)
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1421.webp "日本乡下的道路，每家门前都会精心的打理")
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1421.webp "日本乡下的道路，每家门前都会精心的打理")
 
 来到经典打卡点——罗森x富士山  
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/DSC_1426.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/DSC_1426.webp)
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_160454.webp "对比对面的711，罗森这边挤满了人")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_160359.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_160454.webp "对比对面的711，罗森这边挤满了人")
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_160359.webp)
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/day5_1/IMG_20250501_164940.webp "因为第二天要早起去坐新干线，就早早的回酒店休整了")
+![](https://pic.aulypc0x0.online/data/japan_trip/day5_1/IMG_20250501_164940.webp "因为第二天要早起去坐新干线，就早早的回酒店休整了")
 
 总结，河口湖的可玩可逛性(至少对于当天我个人感受来说)，不如山中湖  
 山中湖的各设施都比较完善，而且间隔都不会很远  

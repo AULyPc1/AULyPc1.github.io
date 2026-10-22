@@ -21,7 +21,7 @@ series: 年终总结
 于２月份购买了人生中的第一台相机——尼康Zfc，期间还入坑了胶片:spoiler[更没救了x]  
 摄影不仅仅带给我的是光的艺术:spoiler[钱包光光💸]，而且在某一定程度上改变了我的生活方式  
 从周末窝屋里打游戏睡觉，到有时起早贪黑爬山钻林去拍照  
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2025_year-end_summary/106.webp)  
+![](https://pic.aulypc0x0.online/data/2025_year-end_summary/106.webp)  
   
 4月底到5月初这段时间，在进行日本之旅  
 参加了同人音乐贩售会、绘师展、去看了富士山、去圣地巡礼夏日口袋、去看了推的演出等等  
@@ -34,13 +34,13 @@ series: 年终总结
 7月份在VRChat中结识了不少朋友，一下子就不孤单了  
 花在VRChat上的时间也增加了不少:spoiler[截止撰写时，已有834h时长]  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2025_year-end_summary/steam2025.webp)  
+![](https://pic.aulypc0x0.online/data/2025_year-end_summary/steam2025.webp)  
   
 10月份入坑胶片中画幅摄影，海淘了一台Mamiya RB67(未来打算写一篇介绍她的文章)  
   
 12月份，阿米娅生日，订了个小蛋糕小小的庆祝下:spoiler[其实是自己也想吃了😉]  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2025_year-end_summary/cake.webp)  
+![](https://pic.aulypc0x0.online/data/2025_year-end_summary/cake.webp)  
   
 12月份还抽中了Risa Yuzuki 2nd的演出的门票，于是又开始准备下一次的旅行了  
   
@@ -48,8 +48,8 @@ series: 年终总结
 所以大部分时间还是听CD抓轨后的本地歌曲  
 油管VTB看的也没有之前多了，大部分也都是撰写博客时后台挂着听存档录播  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2025_year-end_summary/music2025.webp)  
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2025_year-end_summary/youtube2025.webp)  
+![](https://pic.aulypc0x0.online/data/2025_year-end_summary/music2025.webp)  
+![](https://pic.aulypc0x0.online/data/2025_year-end_summary/youtube2025.webp)  
 
 -----------------
 

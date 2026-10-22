@@ -2,7 +2,7 @@
 title: 在Fuwari使用自定义字体
 published: 2024-12-18
 description: '简单记录下自己如何更改fuwari主题字体的过程'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/use_custom_fonts_in_fuwari/cover.png'
+image: 'https://pic.aulypc0x0.online/data/use_custom_fonts_in_fuwari/cover.png'
 tags: [自定义字体]
 category: 网站
 draft: false
@@ -28,8 +28,7 @@ series: 博客改造
 时隔好久升级了下博客，更新了好多功能  
 所以本教程(旧时撰写)已经不具有时效性  
 但可以酌情进行参考  
-更新后的自定义字体采用[蓝柯大佬](https://www.blueke.top/)在文章评论区的建议  
-使用引用外部css  
+更新后的自定义字体采用[蓝珂大佬](https://www.blueke.top/)在文章评论区的建议——引用外部css  
 :::
 
 按照astro官方文档，首先需要添加您的字体到```public/fonts/```目录(没有fonts就自己新建一个)  
@@ -114,7 +113,6 @@ code {
 > 部分文件、文件夹可能有所改变  
 > 所以本教程(旧时撰写)已经不具有时效性  
 > 但可以酌情进行参考  
-> 更新后的自定义字体采用[蓝柯大佬](https://www.blueke.top/)在文章评论区的建议  
-> 使用引用外部css  
+> 更新后的自定义字体采用[蓝珂大佬](https://www.blueke.top/)在文章评论区的建议——引用外部css  
 > 字体采用霞鹜文楷  
 ::github{repo="lxgw/LxgwWenkaiGB"}  

@@ -2,7 +2,7 @@
 title: 简单的从零开始搭建Fuwari
 published: 2024-09-03
 description: '简单的从零开始搭建Fuwari'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/20230509_024446.webp'
+image: 'https://pic.aulypc0x0.online/img/20230509_024446.webp'
 tags: [Fuwari]
 category: 网站
 draft: false

@@ -3,7 +3,7 @@ title: 给你的Fuwari添加一个友链页面
 published: 2024-09-04
 updated: 2025-08-27
 description: '给你的Fuwari添加一个友链页面'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/img/20220728_195930.webp'
+image: 'https://pic.aulypc0x0.online/img/20220728_195930.webp'
 tags: [Fuwari]
 category: 网站
 draft: false
@@ -113,7 +113,7 @@ export enum LinkPreset {
 由于遇到渲染后的静态网页，在刷新后随机排列不生效，用Copilot生成了新的负责随机排列的js代码  
 :::
 
-> <img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/friends_card.png" width="70%" title="友链卡片效果"/>
+> <img src="https://pic.aulypc0x0.online/data/how_to_build_your_website/friends_card.png" width="70%" title="友链卡片效果"/>
 
 ```astro title="src\pages\friends.astro" ins={3-16,21-38,45-60}
 const friendsPost = await getEntry("spec", "friends");

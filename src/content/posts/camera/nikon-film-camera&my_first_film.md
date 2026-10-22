@@ -2,7 +2,7 @@
 title: 尼康胶片相机以及胶卷成片
 published: 2025-03-17
 description: "继FM2后的第二台胶片相机尼康F2，以及两个多月折腾后的成片"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/Gn7952Sb0AAYZbT.webp"
+image: "https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/Gn7952Sb0AAYZbT.webp"
 tags: [摄影, Nikon]
 category: 摄影
 draft: false
@@ -15,14 +15,14 @@ series: 摄影
 > 期间有5代版本，我淘到的这个fm2，机身编号是70开头，是属于第一代的版本  
 > 虽然是第一代，82年生产的，但机身是很漂亮的  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/my_first_camera_nikon-zfc/fm2_1.webp" border=0 width=300 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/my_first_camera_nikon-zfc/number.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/my_first_camera_nikon-zfc/fm2_1.webp" border=0 width=300 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/my_first_camera_nikon-zfc/number.webp" border=0 width=400 height="" ></td>
 </tr></table>
   
 > 说起来zfc的外观设计就是继承fm2，这也是我淘fm2的原因之一，真是太喜欢这个外观了  
 > 买fm2送的黑白胶卷已经拍完了， 后面找个机会送洗扫描下  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/fm2-28f3.5.webp "太好看了吧")
+![](https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/fm2-28f3.5.webp "太好看了吧")
   
 > 同时给fm2淘了个镜头，选择了经典的尼康50mm f1.4 ai版的定焦镜头  
 > 前前后后买了3次  
@@ -30,8 +30,8 @@ series: 摄影
 > 第二次对质量成色不太满意  
 > 第三次买到的才满意  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/my_first_camera_nikon-zfc/50mm_1.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/my_first_camera_nikon-zfc/50mm_2.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/my_first_camera_nikon-zfc/50mm_1.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/my_first_camera_nikon-zfc/50mm_2.webp" border=0 width=400 height="" ></td>
 </tr></table>
   
 # 尼康F2
@@ -48,13 +48,13 @@ series: 摄影
 > 毕竟都半个世纪前的东西了，测光能用也不一定准确  
 > 为了弥补测光，额外添置一个测光计的必要的  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/IMG_20250316_201822.webp "不得不说，买完F2，F2越看越帅，F2再配上35-105更帅了🥰")
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/f2-35105.webp)
+![](https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/IMG_20250316_201822.webp "不得不说，买完F2，F2越看越帅，F2再配上35-105更帅了🥰")
+![](https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/f2-35105.webp)
 
 既然提到这颗35-105 f3.5-4.5的镜头了  
 就贴两张转接到zfc拍摄的成图吧  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/Gn7955AbgAAJ6N1.webp "这微距下的成像，很难想象这是近半个世纪前的老手动镜头")
+![](https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/Gn7955AbgAAJ6N1.webp "这微距下的成像，很难想象这是近半个世纪前的老手动镜头")
 
 > 我的这台F2机身成色很好，测光顶在通过对比zfc测光也挺准确  
 > 但美中不足的是DP-1测光顶指针有时跳动的现象  
@@ -62,15 +62,15 @@ series: 摄影
 > 拆开后不得不感叹前人的智慧，被这内部的机械结构所震撼  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/IMG_20250316_103013.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/IMG_20250316_103005.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/IMG_20250316_103013.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/IMG_20250316_103005.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 > 后面还在钟山风景区旁意外的找到一家古相机馆  
 > 带着F2去见了她的老前辈——尼康大F  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/IMG_20250313_155643.webp" border=0 width=400 height="" ></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/nikon-film-camera&my_first_film/IMG_20250313_155240.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/IMG_20250313_155643.webp" border=0 width=400 height="" ></td>
+<td><img src="https://pic.aulypc0x0.online/data/nikon-film-camera&my_first_film/IMG_20250313_155240.webp" border=0 width=400 height="" ></td>
 </tr></table>
 
 # 胶片成片
@@ -84,4 +84,3 @@ series: 摄影
 这下胶卷价格怕是又要涨上去了  
 还好之前囤了一点  
 :::
-

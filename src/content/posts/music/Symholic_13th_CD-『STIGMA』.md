@@ -2,7 +2,7 @@
 title: Symholic 13th CD 『STIGMA』
 published: 2024-10-30
 description: "こんなことなら　何も思い出さなければよかった"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/13th_STIGMA/STIGMA_cover.webp"
+image: "https://pic.aulypc0x0.online/data/13th_STIGMA/STIGMA_cover.webp"
 tags: [同人音乐, Symholic]
 category: 同人音乐
 draft: false
@@ -39,7 +39,7 @@ series: Symholic
 > 数字矩阵代表的是歌曲序号  
 > 按照矩阵的顺序来看，是要先从01-06顺序听，然后逆序从06-02，至于08和13可能是inst的部分  
 > 故事的终点是起点，起点是终点的感觉  
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024_autumn-plan/shuzi.webp" border=0 width=600 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/M3_54th_2024_autumn-plan/shuzi.webp" border=0 width=600 height=""></td>
 
 > 『STIGMA』的音源很早就拿到了，但一直在出差，没时间听  
 > 想找一个合适的时间好好的听下  
@@ -118,7 +118,7 @@ series: Symholic
 > 按照上文的数字阵列图来看，应该还有个第8首  
 > 通过对比歌曲列表中的各曲时间来看  
 > 作为Tr8 烙 -Stigma- 的inst，时间反而比同为Tr1多了几分钟  
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/13th_STIGMA/music_list.webp" border=0 width=600 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/13th_STIGMA/music_list.webp" border=0 width=600 height=""></td>
 
 
 # Tr13.  隐藏曲
@@ -153,4 +153,4 @@ series: Symholic
 
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">没想到能被发现，我的写作水平一般，好多内心的想法情感没能顺利的写下来。<br>首先感谢Paspal带来的故事，自从被『METEOR』中感人的故事以及充满谜团的世界观吸引后，一直不能忘怀。<br>同样也十分感谢伞粗粗的翻译。 <a href="https://t.co/apEpArHzAf">https://t.co/apEpArHzAf</a></p>&mdash; 𝐴𝑈_𝐿𝑦_𝑃𝑐/spy飖 (@AULyPc1) <a href="https://twitter.com/AULyPc1/status/1910312136821358864?ref_src=twsrc%5Etfw">April 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/meteor/1.webp)
+![](https://pic.aulypc0x0.online/data/meteor/1.webp)

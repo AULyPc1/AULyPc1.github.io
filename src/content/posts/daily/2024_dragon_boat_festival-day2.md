@@ -2,7 +2,7 @@
 title: 2024端午团建Day2
 published: 2024-06-18
 description: "2024端午团建Day2"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_183144.webp"
+image: "https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_183144.webp"
 tags: [团建]
 category: 日常
 draft: false
@@ -18,7 +18,7 @@ series: 2024年端午节团建
 -----------------------------
 ## 早起?不可能早起的!
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/naozhong.webp" border=0 width=250 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/naozhong.webp" border=0 width=250 height=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;font-weight: bold;"> 麻了 </p>
 
 -------------------------------------
@@ -30,14 +30,14 @@ series: 2024年端午节团建
 > 有时候，社畜破防的一瞬间，就是和一堆小孩子一起买票时  
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_120625.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_122158.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_122237.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_120625.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_122158.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_122237.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;"> 摩天轮 蹦极 大摆锤 </p>
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/1_6.webp" border=0 width=250 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/1_6.webp" border=0 width=250 height=""></td></center>
 <p style="text-align:center;"> 萤烛独自一人去玩大摆锤时的名言x </p>
 
 ### <span style="color:#007b43;">森</span><span style="color:#19448e;">海</span>世界--动物虽可爱，但都不准吃哦
@@ -48,13 +48,13 @@ series: 2024年端午节团建
 > 后面等萤烛大摆锤结束后，7人又一起转了一圈  
 > 楼上是水里的小动物，场地虽然不大，但是有各种各样有趣的动物  
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/xiaotuanti.jpg" border=0 width=250 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/xiaotuanti.jpg" border=0 width=250 height=""></td></center>
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_122821.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123015.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123229.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_122821.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123015.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123229.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;"> 可爱~ </p>
@@ -84,19 +84,19 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123628.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123646.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123733.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123628.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123646.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123733.webp" border=0 width=250 height=""></td>
     </tr>
         <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123800.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123809.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123920.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123800.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123809.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123920.webp" border=0 width=250 height=""></td>
     </tr>
         <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_125045.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_125158.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_125237.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_125045.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_125158.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_125237.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -137,15 +137,15 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_123933.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_124911.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_125537.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_125608.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_123933.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_124911.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_125537.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_125608.webp" border=0 width=180 height=""></td>
     </tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_130508.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_130649.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_130323.webp" border=0 width=180 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_130516.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_130508.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_130649.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_130323.webp" border=0 width=180 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_130516.webp" border=0 width=180 height=""></td>
     </tr>
 </table>
 
@@ -170,8 +170,8 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_132423.webp" border=0 width=250 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_133233.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_132423.webp" border=0 width=250 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_133233.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -180,18 +180,18 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_134052.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_134430.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_134435.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_134052.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_134430.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_134435.webp" border=0 width=240 height=""></td>
     </tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_140621.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_134637.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_140614.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_140621.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_134637.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_140614.webp" border=0 width=240 height=""></td>
     </tr>
     </tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_140402.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_140840.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_140853.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_140402.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_140840.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_140853.webp" border=0 width=240 height=""></td>
     </tr>
 </table>
 
@@ -219,9 +219,9 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_153244.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_153300.webp" border=0 width=240 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_153301.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_153244.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_153300.webp" border=0 width=240 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_153301.webp" border=0 width=240 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 事后拍的 </p>
@@ -230,7 +230,7 @@ series: 2024年端午节团建
 > 可能当时自己正在和地球引力做斗争  
 > 脚往下掉，头往上看，本能的想恢复姿势  
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/shenti.webp" border=0 width=250 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/shenti.webp" border=0 width=250 height=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 火柴人示意图 </p>
 
 > 被吊挂的感觉还没消失，就被超重给重重的压了下去  
@@ -247,12 +247,12 @@ series: 2024年端午节团建
 > 真有活力吧  
 > 我们6人就在下面看他一人玩  
 > 有人要发声了  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/guli.webp" border=0 width=500 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/guli.webp" border=0 width=500 height=""></td></center>
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_152028.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_152818.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_152028.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_152818.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 
@@ -265,16 +265,16 @@ series: 2024年端午节团建
 > 过山车 Ver 2.0  
 > 这次只有我、萤烛、久已三人  
 > 与第一个过山车相比，这个过山车，脚不是悬空的，能踩着底板  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/huibuqu.webp" border=0 width=240 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/huibuqu.webp" border=0 width=240 height=""></td></center>
 
 > 这样相对而言，能有个心理安慰  
 > 但我还是太低估了  
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_155248.webp" border=0 width=300 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_155636.webp" border=0 width=300 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_171147.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_155248.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_155636.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_171147.webp" border=0 width=300 height=""></td>
     </tr>
 </table>
 
@@ -287,7 +287,7 @@ series: 2024年端午节团建
 
 > 于此同时，另外一边...  
 > 另外几人在愉快的玩碰碰车  
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/pengpengche.webp" border=0 width=240 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/pengpengche.webp" border=0 width=240 height=""></td></center>
 
 -------------------------------------------
 ### fly--我飞?了?
@@ -296,9 +296,9 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_153842.webp" border=0 width=300 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_154527.webp" border=0 width=300 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_155204.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_153842.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_154527.webp" border=0 width=300 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_155204.webp" border=0 width=300 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 赛博合影 </p>
@@ -306,11 +306,11 @@ series: 2024年端午节团建
 -------------------------------
 ### 靴子奶茶--合乎粥礼
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_171253.webp" border=0 width=400 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_171253.webp" border=0 width=400 height=""></td></center>
 
 ### 旋转咖啡 Ver2.0
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/xuanzhuan.webp" border=0 width=400 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/xuanzhuan.webp" border=0 width=400 height=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 又是和小孩子抢着玩 </p>
 
 > 一开始我是拒绝的，但是败给了诱惑x  
@@ -321,12 +321,12 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_172839.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_172949.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_172839.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_172949.webp" border=0 width=350 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/diange1.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/diange2.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/diange1.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/diange2.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 最轻松的几分钟 </p>
@@ -343,15 +343,15 @@ series: 2024年端午节团建
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_120625.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_151405.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_120625.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_151405.webp" border=0 width=350 height=""></td>
     </tr>
     <tr>
       <td colspan="3"><p style="text-align:center;color:#7058a3;font-size:1.0em;"> 之前游玩时拍的摩天轮远景 </p></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_180136.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_180150.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_180136.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_180150.webp" border=0 width=350 height=""></td>
     </tr>
     <tr>
       <td colspan="3"><p style="text-align:center;color:#7058a3;font-size:1.0em;"> 落日、长江、与船 </p></td>
@@ -365,12 +365,12 @@ series: 2024年端午节团建
 > 萤烛当时就慌了，事后称:感觉生命受到了威胁  
 > 后面三人同步移动才平安换了位置，才有上面拍的落日  
 
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/zhuan.webp" border=0 width=250 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/zhuan.webp" border=0 width=250 height=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;">三人公转x </p>
 
 > 说起来，距离上一次坐摩天轮，已经过了几个年头了，我也记不清了
 > 也想起了在轻小说中看到关于摩天轮的场景
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/kiss.webp" border=0 width=400 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/kiss.webp" border=0 width=400 height=""></td></center>
 
 ```text
   从遥远的下方传来音乐的声音。
@@ -400,21 +400,21 @@ series: 2024年端午节团建
 > “我能cos朵拉.jpg”  
 
 ### 大摆锤--我的伙伴哪去了?
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/dabaichui2.webp" border=0 width=300 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/dabaichui2.webp" border=0 width=300 height=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 临走前萤烛又一个人玩了大摆锤 </p>
 
 ### 出口--回不去的单行道
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_182816.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_183144.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_182816.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_183144.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 出口、入口 </p>
 
 ### 合影--一家人要整整齐齐x
-<center><td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/hezhao.webp" border=0 width=500 height=""></td></center>
+<center><td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/hezhao.webp" border=0 width=500 height=""></td></center>
 
 ## 晚饭--脚快没了
 
@@ -424,8 +424,8 @@ series: 2024年端午节团建
 > 紫月老师先回学校了，就剩下我们6人了  
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_201044.webp" border=0 width=350 height=""></td>
-        <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day2/IMG_20240609_201052.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_201044.webp" border=0 width=350 height=""></td>
+        <td><img src="https://pic.aulypc0x0.online/data/2024_duanwu_Day2/IMG_20240609_201052.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 是火锅哒 </p>

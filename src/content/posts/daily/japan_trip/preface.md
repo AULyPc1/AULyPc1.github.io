@@ -2,7 +2,7 @@
 title: 日本之旅 前言
 published: 2025-04-24
 description: "为期15天的日本之旅"
-image: "https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/preface/DSC_0821.webp"
+image: "https://pic.aulypc0x0.online/data/japan_trip/preface/DSC_0821.webp"
 tags: [旅行]
 category: 日常
 draft: false
@@ -20,7 +20,7 @@ series: 日本之旅
 等五一黄金周结束在回到京都  
 这样就诞生了图中的计划:  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/preface/plan.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/preface/plan.webp)
 
 4.25 上午前往上海，在浦东国际机场附近就住  
 4.26 早上9点的航班，日本时间13点到达羽田机场  
@@ -113,8 +113,8 @@ necomi画展3080日≈146.3
 
 # 出行装备  
 
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/preface/zhuangbei.webp)
-![](https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/japan_trip/preface/IMG_20250424_140320.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/preface/zhuangbei.webp)
+![](https://pic.aulypc0x0.online/data/japan_trip/preface/IMG_20250424_140320.webp)
 
 微单zfc+1650套头+胶片相机F2+35105头+action4，用来拍摄记录(后面十分后悔，不该带F2的，太重了)  
 三脚架、快门线、电池等各种配件  

@@ -2,7 +2,7 @@
 title: VRChat近况_Ver1.2
 published: 2024-12-13
 description: '更新下最近在VR上的经历'
-image: 'https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/AULyPc1-1868327158445396416-01.webp'
+image: 'https://pic.aulypc0x0.online/data/vrchat_02/AULyPc1-1868327158445396416-01.webp'
 tags: [VRChat]
 category: 游戏
 draft: false
@@ -15,8 +15,8 @@ series: VRChat
 > 手头宽裕起来了，于是就在11月底买了人生的第一台VR--Meta Quest3  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/quest3.webp" border=0 width=350 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/quest3_1.webp" border=0 width=350 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/quest3.webp" border=0 width=350 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/quest3_1.webp" border=0 width=350 height=""></td>
 </tr></table>
 
 :::note[注意]
@@ -60,7 +60,7 @@ series: VRChat
 > 搜了好多攻略视频，买了各种配件  
 > 比如面罩、头戴、收纳包等等  
 > 还购入全身追踪传感器slime(史莱姆)，8点追踪，085  
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/slime.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/slime.webp" border=0 width=300 height=""></td>
 
 :::note[注意]
 事实再次证明，晚上睡前真的不要买东西x  
@@ -116,20 +116,20 @@ series: VRChat
 > 当时还想拿胶水粘一下，因为相连接的部分太细窄，遂放弃了  
 > 打算先做眼追版本，等日后自己重新建模设计一个合适的带面捕的面罩  
 > 虽说工作量可能有点大，自己身上还有两个MV字幕还没做(っ °Д °;)っ  
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/break.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/break.webp" border=0 width=300 height=""></td>
 
 
 > 昨天(11日)晚上，把电阻和红外发射管焊接测试了下，没问题  
 > 焊接技术退步了,还感觉排线好难看,后续看能不能再调整吧  
 > <table><tr>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip.webp" border=0 width=300 height=""></td>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip_5.webp" border=0 width=300 height=""></td>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip_6.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip_5.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip_6.webp" border=0 width=300 height=""></td>
 > </tr></table>
 > <table><tr>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip_2.webp" border=0 width=300 height=""></td>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip_4.webp" border=0 width=300 height=""></td>
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/Cymple-wip_3.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip_2.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip_4.webp" border=0 width=300 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/Cymple-wip_3.webp" border=0 width=300 height=""></td>
 > </tr></table>
 
 ---
@@ -146,7 +146,7 @@ series: VRChat
 > 进入到MusicVket6会场地图后，D10摊位前已经聚集了好多人，大概10位左右  
 > 三位也是准时的到达，和大家打了招呼后开始闲聊  
 > 期间和大家拍了合照，也有人单独上前合影  
-> <td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/twiiidea-1865899933091635616-02.webp" border=0 width=600 height=""></td>
+> <td><img src="https://pic.aulypc0x0.online/data/vrchat_02/twiiidea-1865899933091635616-02.webp" border=0 width=600 height=""></td>
 
 > 因为我不会日语，又不敢开麦说话  
 > 本想通过聊天框打字"can i take a photo with you?"询问能否可以合影  
@@ -163,11 +163,11 @@ series: VRChat
 > 也购入了三位本次的1st EP 『BLOOM』  
 > 特别喜欢这张ep的Tr.5 蒼い星  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/booth-bloom.webp" border=0 width=600 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/booth-bloom.webp" border=0 width=600 height=""></td>
 </tr></table>
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/bloom-cover1.webp" border=0 width=350 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/bloom-cover2.webp" border=0 width=350 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/bloom-cover1.webp" border=0 width=350 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/bloom-cover2.webp" border=0 width=350 height=""></td>
 </tr></table>
 
 > 三位都给我点赞留言，意外的都关注了我  
@@ -176,9 +176,9 @@ series: VRChat
 > 怪不得我消息没发送出去，SHEART桑却能注意到  
 > 真的很感谢SHEART桑💜  
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/twitter_1.webp" border=0 width=300 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/twitter_2.webp" border=0 width=300 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/twitter_3.webp" border=0 width=300 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/twitter_1.webp" border=0 width=300 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/twitter_2.webp" border=0 width=300 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/twitter_3.webp" border=0 width=300 height=""></td>
 </tr></table>
 
 
@@ -191,6 +191,6 @@ series: VRChat
 > 以上desu  
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/AULyPc1-1868327158445396416-01.webp" border=0 width=400 height=""></td>
-<td><img src="https://raw.githubusercontent.com/AULyPc1/aulypc_fuwari_blog/main/picture/mypic/data/vrchat_02/AULyPc1-1868327158445396416-02.webp" border=0 width=400 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/AULyPc1-1868327158445396416-01.webp" border=0 width=400 height=""></td>
+<td><img src="https://pic.aulypc0x0.online/data/vrchat_02/AULyPc1-1868327158445396416-02.webp" border=0 width=400 height=""></td>
 </tr></table>
