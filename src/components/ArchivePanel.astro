@@ -9,10 +9,17 @@ interface Props {
 	keyword?: string;
 	tags?: string[];
 	categories?: string[];
+	excludeSeries?: string[];
 }
-const { tags, categories } = Astro.props;
+const { tags, categories, excludeSeries } = Astro.props;
 
 let posts = await getSortedPosts();
+
+if (Array.isArray(excludeSeries) && excludeSeries.length > 0) {
+	posts = posts.filter(
+		(post) => !excludeSeries.includes(post.data.series ?? ""),
+	);
+}
 
 if (Array.isArray(tags) && tags.length > 0) {
 	posts = posts.filter(
