@@ -85,6 +85,9 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
   
 2002年6月，尼康推出了限量2000台的S3 LIMITED EDITION BLACK，该机型是在S3 Replica的基础上重新设计，并采用了黑色镀铬饰面  
   
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_s3_year_2000_millennium&box.webp "图片均来自ebay")  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_s3_limited_edition_black&box.webp)  
+  
 ## Nikkor-S 50mm f/1.4 Millennium  
 随着复刻S3一起的这颗镜头——Nikkor-S 50mm f/1.4 Millennium  
 光学结构与Sonnar的原版尼康旁轴5cm f1.4不同  
@@ -93,6 +96,7 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
 它也被许多人称为尼康的"Summilux杀手"  
   
 ![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_s3.webp)  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_50f1.4_millennium_diagram.webp)  
   
 -----------------------------------------------------------------
 
@@ -134,7 +138,11 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
   </tr>
 </table>
   
-
+如果说F卡口的105mm f2.5被世人称为"阿富汗少女镜"的话  
+旁轴的10.5cm f2.5是不是能被称为"阿富汗奶奶镜"x  
+旁轴版本由胁本善司设计，采用5片3组的Sonnar结构，兼顾柔美虚化与中焦的锐度  
+与后续的F卡口单反镜头105mm f2.5结构是不同的  
+  
 ## Nikkor-Q·C 13.5cm f3.5  
   
 <table>
@@ -144,6 +152,9 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
   </tr>
 </table>
   
+Nikkor-Q·C 13.5cm f3.5是在1950年代初推出的旁轴中长焦镜头，来接替早期的13.5cm f4镜头  
+现在13.5cm f4却因稀有，价格反而比13.5cm f3.5贵了不少  
+
 ## Voigtlander 50/1.5 S Nokton Aspherical  
   
 <table>
@@ -152,6 +163,10 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
     <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_50f1.5_diagram.webp" width=460 height=""></td>
   </tr>
 </table>
+  
+福伦达于2003年4月发布这颗镜头，但短短几年后，于2005年4月就宣布停产该镜头  
+福伦达 Nokton 50/1.5 S 非球面镜头，这颗镜头全球限量700支，是尼康旁轴相机卡口唯一一款50mm非球面镜头  
+它是尼康旁轴相机外卡口的第二款50mm镜头，第一款是传奇的50/1.1 Nikkor镜头  
   
 ## Voigtlander S 85/3.5 APO-Lanthar  
   
@@ -162,4 +177,26 @@ S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至200
   </tr>
 </table>
   
-![](https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_diagram.webp)  
+福伦达85/3.5 APO-Lanthar，是唯一一款采用尼康旁轴卡口的APO远摄镜头  
+这款高品质远摄镜头采用超低色散玻璃，在不牺牲成像质量的前提下，将像差校正达到极致  
+该镜头于2003年3月发布，2005年4月宣布停产，全球限量600支  
+  
+<table>
+  <tr>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_5.webp" width=750 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_diagram.webp" width=300 height=""></td>
+  </tr>
+</table>
+  
+镜头头部能看到福伦达引以为傲的RGB三条线代表APO标识，表示复消色差  
+因为不同波段的可见光经过镜片时折射率不同，在折射后焦点不会完全重合  
+而复消色差设计需要具有特殊色散特性的光学玻璃，以实现三种颜色交叉  
+通常是使用昂贵的氟冕牌玻璃、异常的燧石玻璃，甚至是在玻璃元件之间的薄空间中填充具有高度不寻常色散特性的光学透明液体来实现的  
+所以APO镜头是目前确善能旗下强调现代高解析力与色彩还原的旗舰手动对焦镜头线  
+  
+# 结尾  
+不得不说，尼康的旁轴颜值是真好看，但原厂镜头可能因为年代原因，素质很拉  
+但也得吐槽下，尼康旁轴是真不好用，对焦黄斑是虚像，有时候盯的眼睛都流泪了  
+建议想要玩旁轴的，还是加点钱直接上徕卡吧，徕卡的各项体验都不错，还有大量的镜头群  
+希望有生之年能看到尼康出旁轴数码无反吧  
+以上，感谢看到这里  
