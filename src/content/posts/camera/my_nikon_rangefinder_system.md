@@ -31,7 +31,10 @@ series: 摄影
   
 ![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_sp&s3.webp)  
   
+-----------------------------------------------------------------
+
 # Nikon SP  
+## 定位  
 尼康SP是一款专业级可换镜头的35mm旁轴相机，于1957年推出  
 它是尼康自1948年推出尼康I以来旁轴相机研发的巅峰之作，并被誉为"当时最先进的旁轴相机"  
   
@@ -39,11 +42,124 @@ series: 摄影
   
 Nikon SP相机编号从6200000-6299999，但是最终并没有生产这么多  
 因编号区间存在空缺与跳号，实际生产总数约为 22348 台  
-目前已知记录的最高编号约为 6232141 左右，我这台编号为6231461，属于比较晚期生产的机型了  
+目前已知记录的最高编号约为 6232141 左右，我这台编号为6231461，是停产前生产的机型了  
   
+## 取景器  
 尼康SP相机配备两个主副取景器，共提供六个焦距的取景框线  
 主取景器放大倍率为1倍，取景框线对应50mm、85mm、105mm和135mm焦距  
 主取景器左侧还有一个较小的副取景器，取景框线对应28mm、35mm焦距，但未进行视差校正  
-
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_sp_border.webp)  
+  
+## 外观  
 这款相机采用尼康的S卡口镜头，它是在康泰时C卡口的基础上改进而来  
+经常有人说尼康旁轴是抄袭康泰时的外观，这点无可否认  
+但考虑在当时所处的历史、经济条件下，与其花费大量人力物力从零设计一台相机是不现实的  
+于是就出现外观、操作、卡口都酷似康泰时的尼康旁轴相机  
 尼康SP的S卡口镜头和康泰时C卡口镜头在物理上兼容，但无法通过内置测距仪精确对焦，两者的法兰距相差了一两毫米  
+  
+## 快门  
+尼康SP是历史上第一台使用钛合金金属快门帘的相机  
+但前期编号的SP依旧使用的是布帘  
+尼康进入单反时代的开山之作——尼康大F全部使用了钛合金快门帘  
+钛合金快门帘也出现在之后的F2、F3旗舰相机等身上  
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/metal_shutter.webp "钛合金金属快门帘")  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/cloth_shutter.webp "布制快门帘")  
+  
+-----------------------------------------------------------------
+
+# Nikon S3 Year 2000 Limited Edition  
+## 机身  
+尼康S3千禧年（Y2K）纪念版（或者称S3复刻版）几乎完全复刻了1958年3月发布的尼康S3旁轴相机  
+这款相机进行限量生产，旨在纪念2000年的到来  
+  
+S3 Y2K在各方面都尽可能地与原版尼康S3保持一致，仅在一些细微之处进行了调整以适应现代相机的操作习惯，例如将曝光指示从"20"改为"24"，以及将胶片感光度指示从"ASA"改为"ISO"  
+尼康S3是S系列中相对较晚推出的机型，配备了旁轴取景器，并搭载了世界上首款适用于35mm焦距镜头的1:1等比例取景器  
+尼康S3 Y2K不仅精确复刻了35mm等比例取景器，还复刻了位于机身右上角的焦距调节齿轮组  
+  
+S3复刻版是根据订单生产的，订单接受时间为2000年4月6日至2000年6月30日  
+首批产品于2000年10月发货，销量约为8000台  
+标配的尼克尔S 50mm f/1.4镜头是奥运版镜头的复刻版，属于全黑镀铬的"后期系列"镜头  
+它采用了与当时市面上尼克尔镜头相同的多层镀膜镜头，以确保更高的色彩还原度  
+  
+2002年6月，尼康推出了限量2000台的S3 LIMITED EDITION BLACK，该机型是在S3 Replica的基础上重新设计，并采用了黑色镀铬饰面  
+  
+## Nikkor-S 50mm f/1.4 Millennium  
+随着复刻S3一起的这颗镜头——Nikkor-S 50mm f/1.4 Millennium  
+光学结构与Sonnar的原版尼康旁轴5cm f1.4不同  
+它以1964年"奥运纪念版"Nikkor-S 50mm f/1.4 的7片5组双高斯光学结构为基础  
+并结合现代玻璃材质、改进镀膜与更严苛的制造公差重新打造的，成像质量很优秀  
+它也被许多人称为尼康的"Summilux杀手"  
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikon_s3.webp)  
+  
+-----------------------------------------------------------------
+
+# 尼康S口镜头  
+  
+:::note
+虽然尼康S和康泰时C在物理上可以通用，但康泰时C不在本篇介绍范围内  
+:::
+  
+除了刚刚介绍的Nikkor-S 50mm f/1.4 Millennium  
+博主目前手中的S口镜头还有尼康原厂的5cm f2、5cm f1.4、10.5cm f2.5、13.5cm f3.5  
+以及福伦达的Voigtlander 50/1.5 S Nokton Aspherical 和 Voigtlander S 85/3.5 APO-Lanthar  
+目前广角28mm、35mm还没有  
+  
+## Nikkor-H·C 5cm f2 / Nikkor-S 5cm f1.4  
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_50f1.4.webp "Nikkor S 5cm f1.4")  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_50f2.webp "Nikkor H·C 5cm f2")  
+  
+同为50mm焦段的尼康原厂镜头，就放在一起介绍了  
+尼康Nikkor-S 5cm f/1.4（旁轴相机镜头，1950–1962年生产）采用7片3组Sonnar（松纳）结构  
+尼康Nikkor-H·C 5cm f/2也是经典的Sonnar结构，光学结构为6片3组形式  
+:::tip
+简单解释下为什么光学结构要把多个镜片合在一起并分组  
+镜片合并不是简单的将镜片贴在一起，而是使用胶水将镜片粘在一起  
+这样的镜组被称为胶合镜片(组)，胶合后能大大减少镜片与空气的接触面积  
+在当时镜片表面尚未采用抗反射涂层的情况下，有助于实现高透光率和低鬼影  
+:::
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_50f1.4_diagram.webp "Nikkor S 5cm f1.4 光学结构")  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_50f2_diagram.webp "Nikkor H·C 5cm f2 光学结构")  
+  
+## Nikkor-P·C 10.5cm f2.5  
+  
+<table>
+  <tr>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_105f2.5.webp" width=300 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_105f2.5_diagram.webp" width=360 height=""></td>
+  </tr>
+</table>
+  
+
+## Nikkor-Q·C 13.5cm f3.5  
+  
+<table>
+  <tr>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_135f3.5.webp" width=300 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/nikkor_135f3.5_diagram.webp" width=360 height=""></td>
+  </tr>
+</table>
+  
+## Voigtlander 50/1.5 S Nokton Aspherical  
+  
+<table>
+  <tr>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_50f1.5_3.webp" width=460 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_50f1.5_diagram.webp" width=460 height=""></td>
+  </tr>
+</table>
+  
+## Voigtlander S 85/3.5 APO-Lanthar  
+  
+<table>
+  <tr>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_3.webp" width=460 height=""></td>
+    <td><img src="https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_4.webp" width=260 height=""></td>
+  </tr>
+</table>
+  
+![](https://pic.aulypc0x0.online/data/nikon_rangefinders/voigtlander_85f3.5_diagram.webp)  
